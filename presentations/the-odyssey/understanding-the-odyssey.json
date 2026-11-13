@@ -1,0 +1,5160 @@
+{
+  "schemaVersion": 2,
+  "kind": "presentation-studio-project",
+  "meta": {
+    "id": "gallery-education-understanding-the-odyssey-v1",
+    "name": "Understanding The Odyssey",
+    "updatedAt": "2026-11-13T21:35:31.422Z"
+  },
+  "playbackOnly": false,
+  "state": {
+    "projectName": "Understanding The Odyssey",
+    "slides": [
+      {
+        "id": "understanding-the-odyssey-slide-01",
+        "title": "Understanding The Odyssey",
+        "group": "understanding-the-odyssey-main",
+        "template": "hero",
+        "classes": "",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  01"
+                  }
+                ]
+              },
+              {
+                "tag": "h1",
+                "attrs": {
+                  "style": "font-size:84px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "Understanding The Odyssey"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "A journey home becomes a test of identity, loyalty, and power."
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "note",
+                  "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+                },
+                "children": [
+                  {
+                    "text": "Sources: "
+                  },
+                  {
+                    "tag": "a",
+                    "attrs": {
+                      "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                      "style": "font-size:17px"
+                    },
+                    "children": [
+                      {
+                        "text": "Homer, The Odyssey · Samuel Butler translation"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "cards"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 01"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "THE CENTRAL QUESTION"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "What does it take to come home—and be recognized?"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  01"
+                  }
+                ]
+              },
+              {
+                "tag": "h1",
+                "attrs": {
+                  "style": "font-size:84px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "Understanding The Odyssey"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "A journey home becomes a test of identity, loyalty, and power."
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "note",
+                  "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+                },
+                "children": [
+                  {
+                    "text": "Sources: "
+                  },
+                  {
+                    "tag": "a",
+                    "attrs": {
+                      "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                      "style": "font-size:17px"
+                    },
+                    "children": [
+                      {
+                        "text": "Homer, The Odyssey · Samuel Butler translation"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "cards"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 01"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "THE CENTRAL QUESTION"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "What does it take to come home—and be recognized?"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "",
+        "duration": 60,
+        "hidden": false,
+        "notes": "Audience: general readers, approximately 12–15 minutes. This deck discusses the ending and violent events without graphic detail. The poem is traditionally attributed to Homer; it grew from an oral epic tradition. Its narrative is divided into 24 books. All summaries here are original paraphrases. Greek names are used; Butler’s translation often uses Latin forms, including Ulysses for Odysseus.\n\nSources (reviewed 2026-11-13):\nHomer, The Odyssey · Samuel Butler translation\nhttps://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+        "topic": "Understanding The Odyssey",
+        "commands": null,
+        "templateCommands": null,
+        "_trashIndex": 0,
+        "transition": "inherit",
+        "editLocked": false
+      },
+      {
+        "id": "understanding-the-odyssey-slide-02",
+        "title": "One family. Three struggles.",
+        "group": "understanding-the-odyssey-main",
+        "template": "workflow",
+        "classes": "wide",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  02"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "One family. Three struggles."
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "The story is larger than its wandering hero."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "editor-workflow"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 03"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Odysseus"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Survive the voyage and recover a place at home."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 03"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Penelope"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Protect the household while suitors press her to remarry."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "03 / 03"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Telemachus"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Seek news of his father and grow into public responsibility."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  02"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "One family. Three struggles."
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "The story is larger than its wandering hero."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "editor-workflow"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 03"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Odysseus"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Survive the voyage and recover a place at home."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 03"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Penelope"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Protect the household while suitors press her to remarry."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "03 / 03"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Telemachus"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Seek news of his father and grow into public responsibility."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "wide",
+        "duration": 60,
+        "hidden": false,
+        "notes": "Books 1–4 foreground Telemachus and the crisis in Ithaca. Penelope’s predicament gives the voyage its stakes: home is not waiting unchanged. Athena helps both father and son. Ask listeners which family member has the least freedom to act, and why.\n\nSources (reviewed 2026-11-13):\nHomer, The Odyssey · Samuel Butler translation\nhttps://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+        "topic": "Understanding The Odyssey",
+        "commands": null,
+        "templateCommands": null,
+        "_trashIndex": 0,
+        "transition": "inherit",
+        "editLocked": false
+      },
+      {
+        "id": "understanding-the-odyssey-slide-03",
+        "title": "The story starts in the middle",
+        "group": "understanding-the-odyssey-main",
+        "template": "table",
+        "classes": "wide editor-table-slide",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  03"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "The story starts in the middle"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "Narrative order and chronological order are different."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "detection-table-wrap"
+            },
+            "children": [
+              {
+                "tag": "table",
+                "attrs": {
+                  "class": "detection-table"
+                },
+                "children": [
+                  {
+                    "tag": "thead",
+                    "attrs": {},
+                    "children": [
+                      {
+                        "tag": "tr",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "th",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "Books"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "th",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "Main movement"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "th",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "What the audience learns"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "tbody",
+                    "attrs": {},
+                    "children": [
+                      {
+                        "tag": "tr",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "1–4"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "Telemachus and Ithaca"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "Why the household is in danger"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "tr",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "5–8"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "Odysseus leaves Calypso"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "How he reaches the Phaeacians"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "tr",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "9–12"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "Odysseus recalls his travels"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "What happened after Troy"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "tr",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "13–24"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "Return and reckoning"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "Why arriving is not enough"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  03"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "The story starts in the middle"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "Narrative order and chronological order are different."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "detection-table-wrap"
+            },
+            "children": [
+              {
+                "tag": "table",
+                "attrs": {
+                  "class": "detection-table"
+                },
+                "children": [
+                  {
+                    "tag": "thead",
+                    "attrs": {},
+                    "children": [
+                      {
+                        "tag": "tr",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "th",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "Books"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "th",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "Main movement"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "th",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "What the audience learns"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "tbody",
+                    "attrs": {},
+                    "children": [
+                      {
+                        "tag": "tr",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "1–4"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "Telemachus and Ithaca"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "Why the household is in danger"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "tr",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "5–8"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "Odysseus leaves Calypso"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "How he reaches the Phaeacians"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "tr",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "9–12"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "Odysseus recalls his travels"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "What happened after Troy"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "tr",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "13–24"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "Return and reckoning"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "td",
+                            "attrs": {
+                              "style": "font-size:25px;line-height:1.3"
+                            },
+                            "children": [
+                              {
+                                "text": "Why arriving is not enough"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "wide editor-table-slide",
+        "duration": 60,
+        "hidden": false,
+        "notes": "This structure is called in medias res: beginning amid events rather than at the chronological beginning. Much of the famous voyage comes through Odysseus’s own retrospective account. The narrative alternates suspense about his return with questions about how he tells his past.\n\nSources (reviewed 2026-11-13):\nHomer, The Odyssey · Samuel Butler translation\nhttps://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+        "topic": "Understanding The Odyssey",
+        "commands": null,
+        "templateCommands": null,
+        "_trashIndex": 0,
+        "transition": "inherit",
+        "editLocked": false
+      },
+      {
+        "id": "understanding-the-odyssey-slide-04",
+        "title": "A route through the narrative",
+        "group": "understanding-the-odyssey-main",
+        "template": "workflow",
+        "classes": "wide",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  04"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "A route through the narrative"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "This is a story diagram, not a settled geographic map."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "editor-workflow"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 03"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "After Troy"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Losses, detours, and encounters test the crew."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 03"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Away from home"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Circe, the underworld, and Calypso delay or reshape the return."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "03 / 03"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Back to Ithaca"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Disguise, recognition, and conflict determine the homecoming."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  04"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "A route through the narrative"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "This is a story diagram, not a settled geographic map."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "editor-workflow"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 03"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "After Troy"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Losses, detours, and encounters test the crew."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 03"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Away from home"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Circe, the underworld, and Calypso delay or reshape the return."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "03 / 03"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Back to Ithaca"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Disguise, recognition, and conflict determine the homecoming."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "wide",
+        "duration": 60,
+        "hidden": false,
+        "notes": "The major episodes include the Cicones, Lotus-eaters, Cyclops, Aeolus, Laestrygonians, Circe, the underworld, Sirens, Scylla and Charybdis, and the cattle of the Sun. After his crew is destroyed, Odysseus reaches Calypso; later the Phaeacians bring him to Ithaca. The diagram groups episodes thematically, not into equal time periods. Proposed real-world locations remain contested.\n\nSources (reviewed 2026-11-13):\nHomer, The Odyssey · Samuel Butler translation\nhttps://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+        "topic": "Understanding The Odyssey",
+        "commands": null,
+        "templateCommands": null,
+        "_trashIndex": 0,
+        "transition": "inherit",
+        "editLocked": false
+      },
+      {
+        "id": "understanding-the-odyssey-slide-05",
+        "title": "The Cyclops: wit meets pride",
+        "group": "understanding-the-odyssey-main",
+        "template": "comparison",
+        "classes": "wide",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  05"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "The Cyclops: wit meets pride"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "Escape succeeds. The aftermath makes success costly."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "duo"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "A clever escape"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "The name “Nobody” and the sheep help Odysseus escape Polyphemus."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "A dangerous boast"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Revealing his real name lets the Cyclops call on Poseidon against him."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  05"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "The Cyclops: wit meets pride"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "Escape succeeds. The aftermath makes success costly."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "duo"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "A clever escape"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "The name “Nobody” and the sheep help Odysseus escape Polyphemus."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "A dangerous boast"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Revealing his real name lets the Cyclops call on Poseidon against him."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "wide",
+        "duration": 60,
+        "hidden": false,
+        "notes": "Book 9. Odysseus first seeks hospitality but enters a cave whose owner does not honor that expectation. He blinds Polyphemus and escapes beneath sheep. His later self-identification exposes a tension between the need for survival and the desire for heroic recognition. The poem does not reduce this event to a simple moral slogan.\n\nSources (reviewed 2026-11-13):\nHomer, The Odyssey · Samuel Butler translation\nhttps://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+        "topic": "Understanding The Odyssey",
+        "commands": null,
+        "templateCommands": null,
+        "_trashIndex": 0,
+        "transition": "inherit",
+        "editLocked": false
+      },
+      {
+        "id": "understanding-the-odyssey-slide-06",
+        "title": "Temptation is not always a monster",
+        "group": "understanding-the-odyssey-main",
+        "template": "comparison",
+        "classes": "wide",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  06"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "Temptation is not always a monster"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "Some dangers invite the travelers to stop wanting home."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "duo"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "The Lotus-eaters"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Forgetting makes the return lose its urgency."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "The Sirens"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Danger comes through alluring knowledge and song."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  06"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "Temptation is not always a monster"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "Some dangers invite the travelers to stop wanting home."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "duo"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "The Lotus-eaters"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Forgetting makes the return lose its urgency."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "The Sirens"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Danger comes through alluring knowledge and song."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "wide",
+        "duration": 60,
+        "hidden": false,
+        "notes": "Books 9 and 12. The lotus threatens memory and purpose, while the Sirens draw listeners toward destruction. Odysseus has his crew stop their ears with wax and bind him to the mast so he can listen without steering toward them. Contrast these episodes with an enemy that can simply be fought.\n\nSources (reviewed 2026-11-13):\nHomer, The Odyssey · Samuel Butler translation\nhttps://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+        "topic": "Understanding The Odyssey",
+        "commands": null,
+        "templateCommands": null,
+        "_trashIndex": 0,
+        "transition": "inherit",
+        "editLocked": false
+      },
+      {
+        "id": "understanding-the-odyssey-slide-07",
+        "title": "Knowing is not controlling",
+        "group": "understanding-the-odyssey-main",
+        "template": "comparison",
+        "classes": "wide",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  07"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "Knowing is not controlling"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "Warnings do not remove every limit or every bad choice."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "duo"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "A choice with loss"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Passing Scylla costs lives; avoiding every danger is not possible."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "A warning ignored"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "The crew kill the Sun’s cattle; their return ends in disaster."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  07"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "Knowing is not controlling"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "Warnings do not remove every limit or every bad choice."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "duo"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "A choice with loss"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Passing Scylla costs lives; avoiding every danger is not possible."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "A warning ignored"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "The crew kill the Sun’s cattle; their return ends in disaster."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "wide",
+        "duration": 60,
+        "hidden": false,
+        "notes": "Book 12. Circe’s instructions frame the passage past Scylla and Charybdis as a constrained choice. Later, hunger and absence of favorable winds contribute to the crew’s decision to slaughter sacred cattle despite warnings. Distinguish Odysseus’s decisions from those of his companions. Only he survives the destruction of the ship.\n\nSources (reviewed 2026-11-13):\nHomer, The Odyssey · Samuel Butler translation\nhttps://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+        "topic": "Understanding The Odyssey",
+        "commands": null,
+        "templateCommands": null,
+        "_trashIndex": 0,
+        "transition": "inherit",
+        "editLocked": false
+      },
+      {
+        "id": "understanding-the-odyssey-slide-08",
+        "title": "Hospitality is a moral test",
+        "group": "understanding-the-odyssey-main",
+        "template": "comparison",
+        "classes": "wide",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  08"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "Hospitality is a moral test"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "The Greek idea of xenia links the stranger, host, and guest."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "duo"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Hospitality offered"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "The Phaeacians receive Odysseus and help him reach Ithaca."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Hospitality abused"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "The suitors consume another household’s resources and threaten its future."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  08"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "Hospitality is a moral test"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "The Greek idea of xenia links the stranger, host, and guest."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "duo"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Hospitality offered"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "The Phaeacians receive Odysseus and help him reach Ithaca."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Hospitality abused"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "The suitors consume another household’s resources and threaten its future."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "wide",
+        "duration": 60,
+        "hidden": false,
+        "notes": "Books 6–8 and 13 show reception, storytelling, gifts, and passage. The suitors in Ithaca reverse these expectations: they remain, consume, and intimidate. Interpret xenia as a reciprocal relationship with social and religious obligations, rather than modern customer service or unconditional acceptance of any behavior.\n\nSources (reviewed 2026-11-13):\nHomer, The Odyssey · Samuel Butler translation\nhttps://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+        "topic": "Understanding The Odyssey",
+        "commands": null,
+        "templateCommands": null,
+        "_trashIndex": 0,
+        "transition": "inherit",
+        "editLocked": false
+      },
+      {
+        "id": "understanding-the-odyssey-slide-09",
+        "title": "Penelope is also a strategist",
+        "group": "understanding-the-odyssey-main",
+        "template": "comparison",
+        "classes": "wide",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  09"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "Penelope is also a strategist"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "Waiting is only part of what she does."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "duo"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Delay through weaving"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "She promises a decision after completing a shroud, then secretly undoes her work."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Recognition through testing"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "The bed’s construction helps distinguish her husband from an impostor."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  09"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "Penelope is also a strategist"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "Waiting is only part of what she does."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "duo"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Delay through weaving"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "She promises a decision after completing a shroud, then secretly undoes her work."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Recognition through testing"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "The bed’s construction helps distinguish her husband from an impostor."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "wide",
+        "duration": 60,
+        "hidden": false,
+        "notes": "Penelope’s weaving trick is recounted in Book 2, and the marriage-bed test occurs in Book 23. She does not control every event; the trick is eventually exposed. Her caution matters because the poem repeatedly shows how appearances can deceive. The bed is built around a rooted olive tree, making its secret a sign of shared knowledge.\n\nSources (reviewed 2026-11-13):\nHomer, The Odyssey · Samuel Butler translation\nhttps://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+        "topic": "Understanding The Odyssey",
+        "commands": null,
+        "templateCommands": null,
+        "_trashIndex": 0,
+        "transition": "inherit",
+        "editLocked": false
+      },
+      {
+        "id": "understanding-the-odyssey-slide-10",
+        "title": "Homecoming has several stages",
+        "group": "understanding-the-odyssey-main",
+        "template": "workflow",
+        "classes": "wide",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  10"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "Homecoming has several stages"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "Returning physically does not immediately restore a life."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "editor-workflow"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 03"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Conceal"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Odysseus arrives disguised and gathers information."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 03"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Recognize"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Trusted people identify him through signs and shared knowledge."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "03 / 03"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Reconcile"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "The ending must address the consequences of killing the suitors."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  10"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "Homecoming has several stages"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "Returning physically does not immediately restore a life."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "editor-workflow"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 03"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Conceal"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Odysseus arrives disguised and gathers information."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 03"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Recognize"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Trusted people identify him through signs and shared knowledge."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "03 / 03"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Reconcile"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "The ending must address the consequences of killing the suitors."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "wide",
+        "duration": 60,
+        "hidden": false,
+        "notes": "Books 13–24. Athena assists the disguise; Telemachus, Eurycleia, Penelope, and Laertes recognize Odysseus at different moments and through different evidence. The bow contest leads into the killing of the suitors. Book 24 includes the threat of retaliation, with Athena ultimately imposing peace. Violence does not end the narrative’s political problem by itself.\n\nSources (reviewed 2026-11-13):\nHomer, The Odyssey · Samuel Butler translation\nhttps://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+        "topic": "Understanding The Odyssey",
+        "commands": null,
+        "templateCommands": null,
+        "_trashIndex": 0,
+        "transition": "inherit",
+        "editLocked": false
+      },
+      {
+        "id": "understanding-the-odyssey-slide-11",
+        "title": "An admirable, difficult hero",
+        "group": "understanding-the-odyssey-main",
+        "template": "comparison",
+        "classes": "wide",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  11"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "An admirable, difficult hero"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "The poem rewards intelligence while exposing its costs."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "duo"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "What helps him survive"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Adaptability, persuasion, endurance, and tactical patience."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "What complicates admiration"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Pride, deception, coercion, and the violence of restoring authority."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  11"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "An admirable, difficult hero"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "The poem rewards intelligence while exposing its costs."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "duo"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "What helps him survive"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Adaptability, persuasion, endurance, and tactical patience."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "What complicates admiration"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Pride, deception, coercion, and the violence of restoring authority."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "wide",
+        "duration": 60,
+        "hidden": false,
+        "notes": "This slide offers a literary interpretation rather than a single factual verdict. Support it with the Cyclops episode, the disguised return, and the final reckoning. Ask whether the same skill can be admirable in one context and troubling in another. A nuanced reading can admire the hero’s resourcefulness without approving every action.\n\nSources (reviewed 2026-11-13):\nHomer, The Odyssey · Samuel Butler translation\nhttps://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+        "topic": "Understanding The Odyssey",
+        "commands": null,
+        "templateCommands": null,
+        "_trashIndex": 0,
+        "transition": "inherit",
+        "editLocked": false
+      },
+      {
+        "id": "understanding-the-odyssey-slide-12",
+        "title": "Read beyond the adventure",
+        "group": "understanding-the-odyssey-main",
+        "template": "comparison",
+        "classes": "wide",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  12"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "Read beyond the adventure"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "Three questions connect the episodes."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "duo"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Identity and belonging"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Who are you when your name, status, and home are uncertain?"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Loyalty and power"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Who must prove loyalty—and who gets to judge the proof?"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  12"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "Read beyond the adventure"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "Three questions connect the episodes."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "duo"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Identity and belonging"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Who are you when your name, status, and home are uncertain?"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Loyalty and power"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Who must prove loyalty—and who gets to judge the proof?"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "wide",
+        "duration": 60,
+        "hidden": false,
+        "notes": "A third discussion question: does the ending restore a good order, or reveal the cost of restoring any order through force? Invite more than one answer. Students should cite a scene or book, separate evidence from interpretation, and consider Penelope, Telemachus, servants, and the dead crew alongside Odysseus.\n\nSources (reviewed 2026-11-13):\nHomer, The Odyssey · Samuel Butler translation\nhttps://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+        "topic": "Understanding The Odyssey",
+        "commands": null,
+        "templateCommands": null,
+        "_trashIndex": 0,
+        "transition": "inherit",
+        "editLocked": false
+      },
+      {
+        "id": "understanding-the-odyssey-slide-13",
+        "title": "Check your understanding",
+        "group": "understanding-the-odyssey-main",
+        "template": "comparison",
+        "classes": "wide",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  13"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "Check your understanding"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "Discuss the evidence before revealing an answer."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "duo"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Why delay the voyage account?"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Explain what Books 1–4 make us care about first."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Why test the returning husband?"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Explain why appearance alone cannot establish identity."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  13"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "Check your understanding"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "Discuss the evidence before revealing an answer."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "duo"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Why delay the voyage account?"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Explain what Books 1–4 make us care about first."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Why test the returning husband?"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Explain why appearance alone cannot establish identity."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "wide",
+        "duration": 60,
+        "hidden": false,
+        "notes": "Suggested answers: the opening establishes the threat to the household and Telemachus’s growth, making the return urgent before the voyage is narrated. Penelope’s test draws on private knowledge in a story full of disguise and deception. Accept other answers when supported by specific scenes. Extension: compare the Cyclops boast with the patience of the disguised return.\n\nSources (reviewed 2026-11-13):\nHomer, The Odyssey · Samuel Butler translation\nhttps://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+        "topic": "Understanding The Odyssey",
+        "commands": null,
+        "templateCommands": null,
+        "_trashIndex": 0,
+        "transition": "inherit",
+        "editLocked": false
+      },
+      {
+        "id": "understanding-the-odyssey-slide-14",
+        "title": "Sources and a way into the poem",
+        "group": "understanding-the-odyssey-main",
+        "template": "comparison",
+        "classes": "wide",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  14"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "Sources and a way into the poem"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "Read the episodes alongside the interpretation."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "duo"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Primary text"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Homer, The Odyssey. Samuel Butler’s public-domain prose translation; all 24 books."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Suggested reading path"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Books 1, 9, 12, 19, 23, and 24: household, voyage, recognition, and peace."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow",
+                  "style": "font-size:17px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "LITERATURE · A HOMEWARD JOURNEY  /  14"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:64px;line-height:1.08;letter-spacing:-2px;margin-bottom:20px"
+                },
+                "children": [
+                  {
+                    "text": "Sources and a way into the poem"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead",
+                  "style": "font-size:27px;line-height:1.4;margin-top:0;margin-bottom:8px"
+                },
+                "children": [
+                  {
+                    "text": "Read the episodes alongside the interpretation."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "duo"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "01 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Primary text"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Homer, The Odyssey. Samuel Butler’s public-domain prose translation; all 24 books."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "card"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "num"
+                    },
+                    "children": [
+                      {
+                        "text": "02 / 02"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "attrs": {
+                      "style": "font-size:34px;line-height:1.15"
+                    },
+                    "children": [
+                      {
+                        "text": "Suggested reading path"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {
+                      "style": "font-size:27px;line-height:1.4"
+                    },
+                    "children": [
+                      {
+                        "text": "Books 1, 9, 12, 19, 23, and 24: household, voyage, recognition, and peace."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "note",
+              "style": "font-size:17px;line-height:1.4;margin-top:6px;margin-bottom:0"
+            },
+            "children": [
+              {
+                "text": "Sources: "
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+                  "style": "font-size:17px"
+                },
+                "children": [
+                  {
+                    "text": "Homer, The Odyssey · Samuel Butler translation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "wide",
+        "duration": 60,
+        "hidden": false,
+        "notes": "Source review: 2026-11-13. Main text: https://www.gutenberg.org/files/1727/1727-h/1727-h.htm . Butler uses Ulysses, Minerva, Neptune, and Jove for Odysseus, Athena, Poseidon, and Zeus. Treat Butler’s speculative preface as the translator’s historical interpretation, not as a settled account of authorship or geography. This deck makes no claim to establish the poem’s historical locations. Original educational paraphrase; no modern translation or external artwork reproduced.\n\nSources (reviewed 2026-11-13):\nHomer, The Odyssey · Samuel Butler translation\nhttps://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+        "topic": "Understanding The Odyssey",
+        "commands": null,
+        "templateCommands": null,
+        "_trashIndex": 0,
+        "transition": "inherit",
+        "editLocked": false
+      }
+    ],
+    "trash": [],
+    "loops": {
+      "main": {
+        "name": "Understanding The Odyssey",
+        "slideIds": [
+          "understanding-the-odyssey-slide-01",
+          "understanding-the-odyssey-slide-02",
+          "understanding-the-odyssey-slide-03",
+          "understanding-the-odyssey-slide-04",
+          "understanding-the-odyssey-slide-05",
+          "understanding-the-odyssey-slide-06",
+          "understanding-the-odyssey-slide-07",
+          "understanding-the-odyssey-slide-08",
+          "understanding-the-odyssey-slide-09",
+          "understanding-the-odyssey-slide-10",
+          "understanding-the-odyssey-slide-11",
+          "understanding-the-odyssey-slide-12",
+          "understanding-the-odyssey-slide-13",
+          "understanding-the-odyssey-slide-14"
+        ]
+      }
+    },
+    "brand": {
+      "accent": "#a54f30",
+      "background": "#faf3e5",
+      "ink": "#30291f",
+      "font": "Georgia",
+      "logo": "",
+      "family": "generic",
+      "headerTitle": "PRESENTATION STUDIO GALLERY",
+      "headerSubtitle": "LITERATURE · A HOMEWARD JOURNEY",
+      "edition": "LEARN · QUESTION · EXPLORE",
+      "presentationTheme": "light",
+      "logoLight": "",
+      "logoDark": "",
+      "logoSize": 40,
+      "logoPlacement": "left",
+      "titleLogo": false,
+      "themeColors": {}
+    },
+    "media": {},
+    "sectionTrash": [],
+    "sections": [
+      {
+        "id": "understanding-the-odyssey-main",
+        "name": "Understanding The Odyssey",
+        "kind": "slides",
+        "product": "generic",
+        "hidden": false,
+        "headerLabel": ""
+      }
+    ],
+    "origin": "blank",
+    "presentation": {
+      "transition": "none",
+      "speed": "normal",
+      "sectionTransition": "inherit",
+      "disableMotion": false,
+      "mediaFocus": {
+        "enabled": true,
+        "animation": "expand",
+        "captions": true,
+        "zoom": true
+      },
+      "booth": {
+        "navigation": true,
+        "questions": true,
+        "focus": true,
+        "video": true,
+        "links": false,
+        "idle": 120,
+        "loop": ""
+      }
+    },
+    "editLocked": false,
+    "mediaObjects": {}
+  },
+  "checkpoints": [],
+  "history": {
+    "past": [],
+    "future": []
+  }
+}
