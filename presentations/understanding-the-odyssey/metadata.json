@@ -2,7 +2,7 @@
   "id": "understanding-the-odyssey",
   "title": "Understanding the Odyssey",
   "description": "A high level overview of understanding the story and concepts of The Odyssey",
-  "category": "Mythology",
+  "category": "Education",
   "tags": [
     "greek",
     "fiction"
@@ -14,13 +14,13 @@
   },
   "license": "Apache-2.0",
   "added": "2026-11-13",
-  "cover": "slide-1.png",
+  "cover": "slide1.png",
   "deck": "presentation.json",
   "previews": [
-    "slide-1.png",
-    "slide-2.png",
-    "slide-3.png",
-    "slide-4.png"
+    "slide1.png",
+    "slide2.png",
+    "slide3.png",
+    "slide4.png"
   ],
   "previewNote": "Original gallery starter template. These illustrated previews summarize each slide; the editable Studio layout differs. Replace all prompts with your own content before presenting."
 }
