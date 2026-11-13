@@ -1,0 +1,27 @@
+{
+  "id": "structure-of-the-us-government",
+  "title": "Structure of the U.S. Government",
+  "description": "An illustrated introduction to federal branches, checks and balances, lawmaking, courts, federalism, rights, and civic participation.",
+  "category": "Education",
+  "tags": [
+    "civics",
+    "government",
+    "education"
+  ],
+  "type": "showcase",
+  "author": {
+    "name": "Presentation Studio",
+    "url": "https://github.com/treisland"
+  },
+  "license": "Apache-2.0",
+  "added": "2026-11-13",
+  "cover": "slide-01.png",
+  "deck": "presentation.json",
+  "previews": [
+    "slide-01.png",
+    "slide-03.png",
+    "slide-06.png",
+    "slide-08.png"
+  ],
+  "previewNote": "Four selected playback screenshots from the editable presentation. Speaker notes include source links and discussion guidance."
+}

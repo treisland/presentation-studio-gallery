@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Add the approved Origins of Superman in Comics (14 slides) and Structure of the U.S. Government (15 slides) showcases, each with four selected playback previews and an editable Studio JSON download.
 - Let contributors choose how many previews to include, independently of the deck’s slide count; navigate and label previews by the supplied image count.
 
 - Fix Skip to content so it focuses the current page without replacing the presentation route or resetting the preview.
