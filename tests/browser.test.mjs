@@ -47,8 +47,8 @@ test('gallery browsing, filters, themes, details, downloads and mobile layout', 
     await page.screenshot({path:'test-results/gallery-light.png',fullPage:true});
     await page.locator('.card a').first().click(); await page.locator('#detail-title').waitFor();
     await page.goto(`${base}/#presentation/better-way-to-launch`); await page.locator('#detail-title').waitFor();
-    assert.match(await page.locator('#slide-status').textContent(),/Slide 1 of 4/);
-    await page.getByRole('button',{name:'Next',exact:false}).click(); assert.match(await page.locator('#slide-status').textContent(),/Slide 2 of 4/);
+    assert.match(await page.locator('#slide-status').textContent(),/Preview 1 of 4/);
+    await page.getByRole('button',{name:'Next',exact:false}).click(); assert.match(await page.locator('#slide-status').textContent(),/Preview 2 of 4/);
     const beforeSkip = { url:page.url(), historyLength:await page.evaluate(() => history.length) };
     await page.getByRole('link',{name:'Skip to content'}).focus();
     await page.keyboard.press('Enter');
@@ -57,9 +57,9 @@ test('gallery browsing, filters, themes, details, downloads and mobile layout', 
     assert.equal(await page.evaluate(() => history.length),beforeSkip.historyLength);
     assert.equal(await page.locator('#detail').isVisible(),true);
     assert.equal(await page.locator('#gallery').isVisible(),false);
-    assert.match(await page.locator('#slide-status').textContent(),/Slide 2 of 4/);
+    assert.match(await page.locator('#slide-status').textContent(),/Preview 2 of 4/);
     await page.keyboard.press('ArrowRight');
-    assert.match(await page.locator('#slide-status').textContent(),/Slide 3 of 4/);
+    assert.match(await page.locator('#slide-status').textContent(),/Preview 3 of 4/);
     await page.keyboard.press('Tab');
     assert.equal(await page.getByRole('link',{name:'Back to the collection'}).evaluate(el => el === document.activeElement),true);
     const [download] = await Promise.all([page.waitForEvent('download'),page.getByRole('link',{name:'Download Studio JSON'}).click()]);
@@ -71,6 +71,28 @@ test('gallery browsing, filters, themes, details, downloads and mobile layout', 
     assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth));
     await page.screenshot({path:'test-results/gallery-mobile.png',fullPage:true});
     await page.goto(`${base}/?q=AI&type=template`); await page.locator('.card').first().waitFor(); assert.equal(await page.locator('.card').count(),items.filter(i => matches(i,'AI') && i.type === 'template').length);
+    // A fourteen-slide deck may publish just one or two selected previews.
+    const target = items.find(i => i.id === 'better-way-to-launch');
+    for (const count of [1,2]) {
+      await page.route('**/catalog.json',async route => {
+        const response = await route.fetch(), catalog = await response.json();
+        catalog.items = catalog.items.map(item => item.id === target.id ? {...item,slideCount:14,previews:item.previews.slice(0,count)} : item);
+        await route.fulfill({response,json:catalog});
+      });
+      await page.goto(`${base}/?preview-test=${count}#presentation/${target.id}`);
+      await page.locator('#detail-title').waitFor();
+      assert.match(await page.locator('#slide-status').textContent(),new RegExp(`Preview 1 of ${count}`));
+      assert.equal(await page.locator('dd').last().textContent(),'14');
+      for (let index=1; index<count; index++) await page.getByRole('button',{name:'Next',exact:false}).click();
+      assert.equal(await page.locator('#next').isDisabled(),true);
+      await page.locator('#main').focus();
+      await page.keyboard.press('ArrowRight');
+      assert.match(await page.locator('#slide-status').textContent(),new RegExp(`Preview ${count} of ${count}`));
+      await page.waitForFunction(() => document.getElementById('slide-preview').naturalWidth > 0);
+      if (count>1) await page.getByRole('button',{name:'Previous',exact:false}).click();
+      assert.equal(await page.locator('#previous').isDisabled(),true);
+      await page.unroute('**/catalog.json');
+    }
     await page.goto(`${base}/#presentation/missing`); await page.getByRole('heading',{name:'Presentation not found.'}).waitFor();
     // Asset URLs resolve relative to a project Pages prefix as well as a custom-domain root.
     await page.route('**/presentation-studio-gallery/**', route => {

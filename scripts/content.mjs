@@ -56,7 +56,6 @@ export async function loadContent(root) {
     }
     const deck = JSON.parse(await readFile(path.join(dir, m.deck), 'utf8'));
     validateDeck(deck, folder);
-    assert(m.previews.length === deck.state.slides.length, `${folder}: provide one preview per slide`);
     items.push({ ...m, slideCount: deck.state.slides.length, files });
   }
   assert(new Set(items.map(m => m.id)).size === items.length, 'Duplicate presentation ID');
