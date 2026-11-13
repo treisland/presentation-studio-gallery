@@ -19,7 +19,7 @@ Open http://127.0.0.1:4173. `npm run check` builds and runs content and Chromium
 
 ## Add a presentation
 
-Export a Studio JSON and prepare one preview image per slide, then run:
+Export a Studio JSON and prepare one or more preview images of your choice, then run:
 
 ```sh
 npm run add-presentation

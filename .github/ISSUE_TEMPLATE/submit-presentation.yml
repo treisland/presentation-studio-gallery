@@ -40,7 +40,7 @@ body:
     id: files
     attributes:
       label: Deck and previews
-      description: Link a public Studio JSON and one image preview per slide, or link your contribution branch. Never include private or customer material. Do not paste HTML or credentials.
+      description: Link a public Studio JSON and one or more selected preview images, or link your contribution branch. Never include private or customer material. Do not paste HTML or credentials.
     validations:
       required: true
   - type: input

@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Let contributors choose how many previews to include, independently of the deck’s slide count; navigate and label previews by the supplied image count.
+
 - Fix Skip to content so it focuses the current page without replacing the presentation route or resetting the preview.
 - Add a responsive gallery with category, type and full-text filters, URL-preserved searches, and title/date sorting.
 - Add Light, Dark and System themes with persistent preference and existing Presentation Studio branding.

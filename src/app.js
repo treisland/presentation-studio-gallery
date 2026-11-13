@@ -46,9 +46,9 @@ function renderCards() {
   for (const button of $('categories').children) button.setAttribute('aria-pressed', String(button.dataset.category === category));
 }
 function preview() {
-  const img = $('slide-preview'); img.src = asset(activeItem, activeItem.previews[slideIndex]); img.alt = `${activeItem.title}, slide ${slideIndex + 1} preview`;
-  $('slide-status').textContent = `Slide ${slideIndex + 1} of ${activeItem.slideCount}`;
-  $('previous').disabled = slideIndex === 0; $('next').disabled = slideIndex === activeItem.slideCount - 1;
+  const img = $('slide-preview'); img.src = asset(activeItem, activeItem.previews[slideIndex]); img.alt = `${activeItem.title}, preview ${slideIndex + 1}`;
+  $('slide-status').textContent = `Preview ${slideIndex + 1} of ${activeItem.previews.length}`;
+  $('previous').disabled = slideIndex === 0; $('next').disabled = slideIndex === activeItem.previews.length - 1;
 }
 function route(focus = false) {
   if (!catalog) return;
@@ -72,7 +72,7 @@ function route(focus = false) {
   const viewer = document.createElement('div'); viewer.className = 'viewer'; const img = document.createElement('img'); img.id = 'slide-preview'; img.width = 960; img.height = 540; viewer.append(img);
   const controls = document.createElement('div'); controls.className = 'viewer-controls';
   const prev = text('button', '← Previous'); prev.id = 'previous'; prev.type = 'button'; prev.addEventListener('click', () => { if (slideIndex > 0) { slideIndex--; preview(); } });
-  const next = text('button', 'Next →'); next.id = 'next'; next.type = 'button'; next.addEventListener('click', () => { if (slideIndex < item.slideCount - 1) { slideIndex++; preview(); } });
+  const next = text('button', 'Next →'); next.id = 'next'; next.type = 'button'; next.addEventListener('click', () => { if (slideIndex < item.previews.length - 1) { slideIndex++; preview(); } });
   const status = text('span', ''); status.id = 'slide-status'; status.setAttribute('aria-live', 'polite'); controls.append(prev,status,next); viewer.append(controls); detail.append(viewer);
   const info = document.createElement('div'); info.className = 'detail-info';
   const about = document.createElement('div'); about.append(text('h2', 'Make it your own.'));

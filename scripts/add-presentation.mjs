@@ -24,10 +24,10 @@ try {
   const license = await ask('Content license (only choose a license you can grant)', 'Apache-2.0');
   const deckPath = path.resolve(await ask('Path to an exported Studio JSON'));
   const deck = JSON.parse(await readFile(deckPath, 'utf8')); validateDeck(deck, id);
-  const previewDir = path.resolve(await ask('Directory of slide previews (01.png, 02.png, etc.; alphabetical order)'));
+  const previewDir = path.resolve(await ask('Directory of selected previews (any number; alphabetical order)'));
   const { readdir } = await import('node:fs/promises');
   const previews = (await readdir(previewDir)).filter(f => /\.(png|webp|jpe?g|svg)$/i.test(f)).sort();
-  assert(previews.length === deck.state.slides.length, `Expected ${deck.state.slides.length} preview images`);
+  assert(previews.length > 0, 'Provide at least one preview image');
   const metadata = { id, title, description, category, tags, type, author, license, added: new Date().toISOString().slice(0,10), cover: previews[0], deck: 'presentation.json', previews };
   const { validateMetadata, validateSvg } = await import('./content.mjs');
   validateMetadata(metadata, id, config.categories);
