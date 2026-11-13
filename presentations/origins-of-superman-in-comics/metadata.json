@@ -1,0 +1,27 @@
+{
+  "id": "origins-of-superman-in-comics",
+  "title": "Origins of Superman in Comics",
+  "description": "How Superman developed from an early concept into a comic-book hero: creators, the 1938 debut, changing powers, and the storytelling of an origin.",
+  "category": "Education",
+  "tags": [
+    "comics",
+    "history",
+    "superman"
+  ],
+  "type": "showcase",
+  "author": {
+    "name": "Presentation Studio",
+    "url": "https://github.com/treisland"
+  },
+  "license": "Apache-2.0",
+  "added": "2026-11-13",
+  "cover": "slide-01.png",
+  "deck": "presentation.json",
+  "previews": [
+    "slide-01.png",
+    "slide-04.png",
+    "slide-05.png",
+    "slide-06.png"
+  ],
+  "previewNote": "Four selected playback screenshots from the editable presentation. Speaker notes include source links and discussion guidance."
+}

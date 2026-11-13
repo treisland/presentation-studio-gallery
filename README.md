@@ -2,7 +2,14 @@
 
 A static, searchable collection of original presentations and reusable templates made with [Presentation Studio](https://github.com/treisland/presentation-studio). [Documentation](https://docs.pres-studio.com).
 
-Includes category/tag search, Showcase/Template filtering, light/dark/system themes, shareable detail pages, slide image previews, and Studio JSON downloads. No database, accounts, analytics, runtime dependencies, or external fonts. The six included entries are original starter templates, not real project results. Their illustrated previews summarize the slides; they are not exact Studio renderings.
+Includes category/tag search, Showcase/Template filtering, light/dark/system themes, shareable detail pages, slide image previews, and Studio JSON downloads. No database, accounts, analytics, runtime dependencies, or external fonts. The collection includes six original starter templates and complete educational presentations. The starter templates use illustrated summaries rather than exact Studio renderings; completed decks include selected playback screenshots.
+
+## Educational showcases
+
+- **Origins of Superman in Comics** — 14 editable slides on the creators, publication debut and early evolution; four playback previews. Approved in [submission #6](https://github.com/treisland/presentation-studio-gallery/issues/6).
+- **Structure of the U.S. Government** — 15 editable slides explaining federal branches, lawmaking, courts, checks and balances, and participation; four playback previews. Approved in [submission #7](https://github.com/treisland/presentation-studio-gallery/issues/7).
+
+Both decks include speaker notes and source links. Original text and diagrams are Apache-2.0; cited sources retain their own rights. Source review date: November 13, 2026.
 
 ## Run locally
 
