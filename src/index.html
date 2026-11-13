@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore original presentations and reusable templates made with Presentation Studio.">
+  <meta name="color-scheme" content="light dark">
+  <title>Gallery · Presentation Studio</title>
+  <link rel="icon" href="./assets/logo-symbol.svg" type="image/svg+xml">
+  <script src="./theme.js"></script>
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="header">
+    <a class="brand" href="#" aria-label="Presentation Studio Gallery home">
+      <img class="brand-dark-ink" src="./assets/logo-dark.svg" alt="Presentation Studio" width="250" height="50">
+      <img class="brand-light-ink" src="./assets/logo-light.svg" alt="Presentation Studio" width="250" height="50">
+      <span class="brand-label">Gallery</span>
+    </a>
+    <nav aria-label="Main navigation">
+      <a class="explore-link" href="#">Explore</a>
+      <a href="https://docs.pres-studio.com">Docs <span aria-hidden="true">↗</span></a>
+      <a class="github-link" href="https://github.com/treisland/presentation-studio-gallery">GitHub <span aria-hidden="true">↗</span></a>
+      <label class="theme-label"><span class="sr-only">Color theme</span><select id="theme" aria-label="Color theme"><option value="system">◐ System</option><option value="light">☀ Light</option><option value="dark">☾ Dark</option></select></label>
+      <a class="button small" href="https://github.com/treisland/presentation-studio-gallery/issues/new?template=submit-presentation.yml">Submit a deck <span aria-hidden="true">↗</span></a>
+    </nav>
+  </header>
+  <main id="main" tabindex="-1">
+    <section id="gallery">
+      <div class="hero">
+        <div class="eyebrow"><span class="dot"></span> A LITTLE INSPIRATION GOES A LONG WAY</div>
+        <h1>Ideas worth<br><em>presenting.</em></h1>
+        <p>Find a fresh perspective. Explore presentations,<br class="desktop-break"> borrow a starting point, and make it your own.</p>
+        <div class="hero-note"><img src="./assets/logo-symbol.svg" alt="" width="24" height="24"> Made with Presentation Studio</div>
+        <div class="hero-art" aria-hidden="true"><div class="art-back"></div><div class="art-front"><span>YOUR NEXT<br>GREAT IDEA.</span><i>✳</i><small>STARTS WITH A SLIDE</small></div><div class="art-tag">A space for good stories <span>↗</span></div></div>
+      </div>
+      <section class="browse" aria-labelledby="browse-heading">
+        <div class="browse-top"><div><span class="eyebrow muted">THE COLLECTION</span><h2 id="browse-heading">Find your starting point.</h2></div><p>Original decks. Open possibilities.</p></div>
+        <form id="search-form" role="search"><label class="search"><span aria-hidden="true">⌕</span><span class="sr-only">Search presentations</span><input id="search" type="search" placeholder="Search presentations, topics, or creators…" autocomplete="off"><kbd aria-hidden="true">/</kbd></label></form>
+        <div id="categories" class="categories" role="group" aria-label="Filter by category"></div>
+        <div class="results-bar"><p id="result-count" role="status" aria-live="polite">Loading the collection…</p><div class="sort-controls"><label><span class="sr-only">Presentation type</span><select id="type"><option value="all">All types</option><option value="showcase">Showcases</option><option value="template">Templates</option></select></label><label><span class="sr-only">Sort presentations</span><select id="sort"><option value="newest">Recently added</option><option value="title">Title A–Z</option></select></label></div></div>
+        <div id="cards" class="cards"></div>
+        <div id="empty" class="empty" hidden><span aria-hidden="true">⌕</span><h3>No presentations found.</h3><p>Try another topic or clear your filters.</p><button id="reset" class="button">Clear filters</button></div>
+        <div id="load-error" class="empty" hidden><h3>The collection couldn’t load.</h3><p>Please reload to try again.</p><button id="reload" class="button">Reload collection</button></div>
+      </section>
+      <aside class="contribute"><div><span class="eyebrow">GOOD IDEAS ARE BETTER SHARED</span><h2>Have something worth presenting?</h2><p>Share an original deck or a useful starting point for someone else.</p></div><a class="button secondary" href="https://github.com/treisland/presentation-studio-gallery/issues/new?template=submit-presentation.yml">Contribute to the collection <span aria-hidden="true">↗</span></a></aside>
+    </section>
+    <section id="detail" class="detail" hidden aria-labelledby="detail-title"></section>
+    <noscript><p class="empty">JavaScript is required to search and preview this gallery. You can also <a href="https://github.com/treisland/presentation-studio-gallery/tree/main/presentations">browse and download presentations on GitHub</a>.</p></noscript>
+  </main>
+  <footer><p>Built to inspire. Made with <a href="https://docs.pres-studio.com">Presentation Studio</a>.</p><div><a href="https://docs.pres-studio.com">Documentation ↗</a><a href="https://github.com/treisland/presentation-studio-gallery/blob/main/CONTRIBUTING.md">Contributing ↗</a><span>A growing, open collection.</span></div></footer>
+</body>
+</html>

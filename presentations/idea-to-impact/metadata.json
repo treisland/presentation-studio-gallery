@@ -1,0 +1,27 @@
+{
+  "id": "idea-to-impact",
+  "title": "From idea to impact",
+  "description": "A product demo outline built around a real task and a useful outcome.",
+  "category": "Product demos",
+  "tags": [
+    "demo",
+    "workflow",
+    "product"
+  ],
+  "type": "template",
+  "author": {
+    "name": "Presentation Studio",
+    "url": "https://github.com/treisland"
+  },
+  "license": "Apache-2.0",
+  "added": "2026-11-13",
+  "cover": "slide-1.svg",
+  "deck": "presentation.json",
+  "previews": [
+    "slide-1.svg",
+    "slide-2.svg",
+    "slide-3.svg",
+    "slide-4.svg"
+  ],
+  "previewNote": "Original gallery starter template. These illustrated previews summarize each slide; the editable Studio layout differs. Replace all prompts with your own content before presenting."
+}
