@@ -23,4 +23,6 @@ To pause deployment, set `PAGES_ENABLED=false`. To recover from an incorrect dep
 
 ## Limits and remaining acceptance
 
+The keyboard **Skip to content** link focuses the main content and scrolls past the header without changing the URL, browser history, active deck, or selected slide. It works on both the collection and presentation detail pages.
+
 Automated checks do not grant asset rights or prove every Studio import constraint. Maintainers must review licenses, import each contributed deck in the supported Studio version, and confirm media portability. Manual screen-reader and Safari/Firefox review is recommended before broad promotion. Deployment and custom-domain behavior cannot be verified until the owner enables Pages and configures DNS.

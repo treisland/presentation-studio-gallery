@@ -87,6 +87,11 @@ function route(focus = false) {
   if (focus) { h1.focus(); window.scrollTo(0,0); }
 }
 $('search-form').addEventListener('submit', e => e.preventDefault());
+document.querySelector('.skip').addEventListener('click', event => {
+  event.preventDefault();
+  $('main').focus({ preventScroll: true });
+  $('main').scrollIntoView({ block: 'start' });
+});
 for (const id of ['search','type','sort']) $(id).addEventListener(id === 'search' ? 'input' : 'change', () => { updateUrl(); renderCards(); });
 $('reset').addEventListener('click', () => { category = 'all'; $('search').value = ''; $('type').value = 'all'; $('sort').value = 'newest'; updateUrl(); renderCards(); $('search').focus(); });
 $('reload').addEventListener('click', () => location.reload());

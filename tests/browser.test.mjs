@@ -18,6 +18,14 @@ test('gallery browsing, filters, themes, details, downloads and mobile layout', 
   const errors = []; page.on('pageerror', error => errors.push(error.message));
   try {
     await page.goto(base); await page.locator('.card').first().waitFor();
+    const galleryUrl = page.url();
+    await page.keyboard.press('Tab');
+    assert.equal(await page.getByRole('link',{name:'Skip to content'}).evaluate(el => el === document.activeElement),true);
+    await page.keyboard.press('Enter');
+    assert.equal(await page.locator('#main').evaluate(el => el === document.activeElement),true);
+    assert.equal(page.url(),galleryUrl);
+    await page.keyboard.press('Tab');
+    assert.equal(await page.getByRole('searchbox').evaluate(el => el === document.activeElement),true);
     assert.equal(await page.locator('.card').count(),items.length);
     const cover = await page.locator('.cover').first().boundingBox();
     assert.ok(Math.abs(cover.width / cover.height - 16 / 9) < .02, 'covers keep their slide aspect ratio');
@@ -41,6 +49,19 @@ test('gallery browsing, filters, themes, details, downloads and mobile layout', 
     await page.goto(`${base}/#presentation/better-way-to-launch`); await page.locator('#detail-title').waitFor();
     assert.match(await page.locator('#slide-status').textContent(),/Slide 1 of 4/);
     await page.getByRole('button',{name:'Next',exact:false}).click(); assert.match(await page.locator('#slide-status').textContent(),/Slide 2 of 4/);
+    const beforeSkip = { url:page.url(), historyLength:await page.evaluate(() => history.length) };
+    await page.getByRole('link',{name:'Skip to content'}).focus();
+    await page.keyboard.press('Enter');
+    assert.equal(await page.locator('#main').evaluate(el => el === document.activeElement),true);
+    assert.equal(page.url(),beforeSkip.url);
+    assert.equal(await page.evaluate(() => history.length),beforeSkip.historyLength);
+    assert.equal(await page.locator('#detail').isVisible(),true);
+    assert.equal(await page.locator('#gallery').isVisible(),false);
+    assert.match(await page.locator('#slide-status').textContent(),/Slide 2 of 4/);
+    await page.keyboard.press('ArrowRight');
+    assert.match(await page.locator('#slide-status').textContent(),/Slide 3 of 4/);
+    await page.keyboard.press('Tab');
+    assert.equal(await page.getByRole('link',{name:'Back to the collection'}).evaluate(el => el === document.activeElement),true);
     const [download] = await Promise.all([page.waitForEvent('download'),page.getByRole('link',{name:'Download Studio JSON'}).click()]);
     assert.equal(download.suggestedFilename(),'presentation.json');
     const detailUrl = page.url(); await page.reload(); await page.locator('#detail-title').waitFor(); assert.equal(page.url(),detailUrl);
