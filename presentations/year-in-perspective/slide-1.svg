@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-label="The year in perspective.">
+<rect width="960" height="540" fill="#e1ecdb"/>
+<circle cx="916" cy="66" r="195" fill="#577a48" opacity="0.8"/>
+<circle cx="916" cy="455" r="195" fill="#577a48" opacity="0.32"/>
+<path d="M728 260h160M808 180v160" stroke="#263b2a" stroke-width="2" opacity="0.35"/>
+<text x="62" y="62" fill="#263b2a" font-family="Arial, sans-serif" font-size="14" letter-spacing="4">REPORTS</text>
+<text x="60" y="210" fill="#263b2a" font-family="Georgia, serif" font-size="74">The year in</text>
+<text x="60" y="297" fill="#263b2a" font-family="Georgia, serif" font-size="74">perspective.</text>
+<text x="64" y="365" fill="#263b2a" font-family="Arial, sans-serif" font-size="18">A thoughtful review of what changed and what comes next.</text>
+<path d="M64 452h56" stroke="#263b2a" stroke-width="2"/>
+<text x="64" y="490" fill="#263b2a" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">GALLERY STARTER · EDIT IT. MAKE IT YOURS.</text>
+<text x="875" y="490" fill="#263b2a" font-family="Arial, sans-serif" font-size="16">01</text>
+</svg>

@@ -1,0 +1,721 @@
+{
+  "schemaVersion": 2,
+  "kind": "presentation-studio-project",
+  "meta": {
+    "id": "gallery-understanding-ai-v1",
+    "name": "Understanding AI",
+    "updatedAt": "2026-11-13T00:00:00.000Z"
+  },
+  "playbackOnly": false,
+  "state": {
+    "projectName": "Understanding AI",
+    "slides": [
+      {
+        "id": "understanding-ai-slide-1",
+        "title": "Understanding AI.",
+        "group": "understanding-ai-section",
+        "template": "hero",
+        "classes": "",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "EDUCATION"
+                  }
+                ]
+              },
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Understanding AI."
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead"
+                },
+                "children": [
+                  {
+                    "text": "A starting point for a conversation about intelligent tools."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "card accent"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "1 / 4"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Make it your own"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Replace the prompts with your own story and examples."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "EDUCATION"
+                  }
+                ]
+              },
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Understanding AI."
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead"
+                },
+                "children": [
+                  {
+                    "text": "A starting point for a conversation about intelligent tools."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "card accent"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "1 / 4"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Make it your own"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Replace the prompts with your own story and examples."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "",
+        "duration": 12,
+        "hidden": false,
+        "notes": "",
+        "topic": "General",
+        "commands": null,
+        "templateCommands": null
+      },
+      {
+        "id": "understanding-ai-slide-2",
+        "title": "Learn from examples.",
+        "group": "understanding-ai-section",
+        "template": "hero",
+        "classes": "",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "EDUCATION"
+                  }
+                ]
+              },
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Learn from examples."
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead"
+                },
+                "children": [
+                  {
+                    "text": "Models find patterns in training data and use them on new inputs."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "card accent"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "2 / 4"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Make it your own"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Replace the prompts with your own story and examples."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "EDUCATION"
+                  }
+                ]
+              },
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Learn from examples."
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead"
+                },
+                "children": [
+                  {
+                    "text": "Models find patterns in training data and use them on new inputs."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "card accent"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "2 / 4"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Make it your own"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Replace the prompts with your own story and examples."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "",
+        "duration": 12,
+        "hidden": false,
+        "notes": "",
+        "topic": "General",
+        "commands": null,
+        "templateCommands": null
+      },
+      {
+        "id": "understanding-ai-slide-3",
+        "title": "Keep people in the loop.",
+        "group": "understanding-ai-section",
+        "template": "hero",
+        "classes": "",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "EDUCATION"
+                  }
+                ]
+              },
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Keep people in the loop."
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead"
+                },
+                "children": [
+                  {
+                    "text": "Check important outputs. Ask where information came from."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "card accent"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "3 / 4"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Make it your own"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Replace the prompts with your own story and examples."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "EDUCATION"
+                  }
+                ]
+              },
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Keep people in the loop."
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead"
+                },
+                "children": [
+                  {
+                    "text": "Check important outputs. Ask where information came from."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "card accent"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "3 / 4"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Make it your own"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Replace the prompts with your own story and examples."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "",
+        "duration": 12,
+        "hidden": false,
+        "notes": "",
+        "topic": "General",
+        "commands": null,
+        "templateCommands": null
+      },
+      {
+        "id": "understanding-ai-slide-4",
+        "title": "Try a small experiment.",
+        "group": "understanding-ai-section",
+        "template": "hero",
+        "classes": "",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "EDUCATION"
+                  }
+                ]
+              },
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Try a small experiment."
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead"
+                },
+                "children": [
+                  {
+                    "text": "Choose a low-stakes task and compare it with your own work."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "card accent"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "4 / 4"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Make it your own"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Replace the prompts with your own story and examples."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "EDUCATION"
+                  }
+                ]
+              },
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Try a small experiment."
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead"
+                },
+                "children": [
+                  {
+                    "text": "Choose a low-stakes task and compare it with your own work."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "card accent"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "4 / 4"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Make it your own"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Replace the prompts with your own story and examples."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "",
+        "duration": 12,
+        "hidden": false,
+        "notes": "",
+        "topic": "General",
+        "commands": null,
+        "templateCommands": null
+      }
+    ],
+    "trash": [],
+    "loops": {
+      "main": {
+        "name": "Main presentation",
+        "slideIds": [
+          "understanding-ai-slide-1",
+          "understanding-ai-slide-2",
+          "understanding-ai-slide-3",
+          "understanding-ai-slide-4"
+        ]
+      }
+    },
+    "brand": {
+      "accent": "#62ddc8",
+      "background": "#14273a",
+      "ink": "#f1f6fc",
+      "font": "Arial",
+      "logo": "",
+      "family": "generic",
+      "headerTitle": "GALLERY STARTER",
+      "headerSubtitle": "",
+      "edition": "",
+      "presentationTheme": "dark"
+    },
+    "media": {},
+    "sectionTrash": [],
+    "sections": [
+      {
+        "id": "understanding-ai-section",
+        "name": "Main",
+        "kind": "slides",
+        "product": "generic",
+        "hidden": false,
+        "headerLabel": ""
+      }
+    ],
+    "origin": "blank"
+  },
+  "checkpoints": [],
+  "history": {
+    "past": [],
+    "future": []
+  }
+}

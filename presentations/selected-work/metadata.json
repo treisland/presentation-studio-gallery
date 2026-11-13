@@ -1,0 +1,27 @@
+{
+  "id": "selected-work",
+  "title": "Selected work",
+  "description": "A clean portfolio starting point that puts your work and process first.",
+  "category": "Portfolios",
+  "tags": [
+    "design",
+    "portfolio",
+    "case study"
+  ],
+  "type": "template",
+  "author": {
+    "name": "Presentation Studio",
+    "url": "https://github.com/treisland"
+  },
+  "license": "Apache-2.0",
+  "added": "2026-11-13",
+  "cover": "slide-1.svg",
+  "deck": "presentation.json",
+  "previews": [
+    "slide-1.svg",
+    "slide-2.svg",
+    "slide-3.svg",
+    "slide-4.svg"
+  ],
+  "previewNote": "Original gallery starter template. These illustrated previews summarize each slide; the editable Studio layout differs. Replace all prompts with your own content before presenting."
+}

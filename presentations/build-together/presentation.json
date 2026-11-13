@@ -1,0 +1,721 @@
+{
+  "schemaVersion": 2,
+  "kind": "presentation-studio-project",
+  "meta": {
+    "id": "gallery-build-together-v1",
+    "name": "Build something together",
+    "updatedAt": "2026-11-13T00:00:00.000Z"
+  },
+  "playbackOnly": false,
+  "state": {
+    "projectName": "Build something together",
+    "slides": [
+      {
+        "id": "build-together-slide-1",
+        "title": "Build something together.",
+        "group": "build-together-section",
+        "template": "hero",
+        "classes": "",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "WORKSHOPS"
+                  }
+                ]
+              },
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Build something together."
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead"
+                },
+                "children": [
+                  {
+                    "text": "A workshop for listening, exploring, and deciding."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "card accent"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "1 / 4"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Make it your own"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Replace the prompts with your own story and examples."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "WORKSHOPS"
+                  }
+                ]
+              },
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Build something together."
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead"
+                },
+                "children": [
+                  {
+                    "text": "A workshop for listening, exploring, and deciding."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "card accent"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "1 / 4"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Make it your own"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Replace the prompts with your own story and examples."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "",
+        "duration": 12,
+        "hidden": false,
+        "notes": "",
+        "topic": "General",
+        "commands": null,
+        "templateCommands": null
+      },
+      {
+        "id": "build-together-slide-2",
+        "title": "First, listen.",
+        "group": "build-together-section",
+        "template": "hero",
+        "classes": "",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "WORKSHOPS"
+                  }
+                ]
+              },
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "First, listen."
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead"
+                },
+                "children": [
+                  {
+                    "text": "Each person shares one observation. Capture ideas before debating."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "card accent"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "2 / 4"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Make it your own"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Replace the prompts with your own story and examples."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "WORKSHOPS"
+                  }
+                ]
+              },
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "First, listen."
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead"
+                },
+                "children": [
+                  {
+                    "text": "Each person shares one observation. Capture ideas before debating."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "card accent"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "2 / 4"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Make it your own"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Replace the prompts with your own story and examples."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "",
+        "duration": 12,
+        "hidden": false,
+        "notes": "",
+        "topic": "General",
+        "commands": null,
+        "templateCommands": null
+      },
+      {
+        "id": "build-together-slide-3",
+        "title": "Then, explore.",
+        "group": "build-together-section",
+        "template": "hero",
+        "classes": "",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "WORKSHOPS"
+                  }
+                ]
+              },
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Then, explore."
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead"
+                },
+                "children": [
+                  {
+                    "text": "Group similar themes. Find one question worth testing."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "card accent"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "3 / 4"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Make it your own"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Replace the prompts with your own story and examples."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "WORKSHOPS"
+                  }
+                ]
+              },
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Then, explore."
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead"
+                },
+                "children": [
+                  {
+                    "text": "Group similar themes. Find one question worth testing."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "card accent"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "3 / 4"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Make it your own"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Replace the prompts with your own story and examples."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "",
+        "duration": 12,
+        "hidden": false,
+        "notes": "",
+        "topic": "General",
+        "commands": null,
+        "templateCommands": null
+      },
+      {
+        "id": "build-together-slide-4",
+        "title": "Choose one small step.",
+        "group": "build-together-section",
+        "template": "hero",
+        "classes": "",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "WORKSHOPS"
+                  }
+                ]
+              },
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Choose one small step."
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead"
+                },
+                "children": [
+                  {
+                    "text": "Agree on an experiment, an owner, and a time to learn."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "card accent"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "4 / 4"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Make it your own"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Replace the prompts with your own story and examples."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "WORKSHOPS"
+                  }
+                ]
+              },
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Choose one small step."
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "lead"
+                },
+                "children": [
+                  {
+                    "text": "Agree on an experiment, an owner, and a time to learn."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "card accent"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "text": "4 / 4"
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Make it your own"
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  {
+                    "text": "Replace the prompts with your own story and examples."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "",
+        "duration": 12,
+        "hidden": false,
+        "notes": "",
+        "topic": "General",
+        "commands": null,
+        "templateCommands": null
+      }
+    ],
+    "trash": [],
+    "loops": {
+      "main": {
+        "name": "Main presentation",
+        "slideIds": [
+          "build-together-slide-1",
+          "build-together-slide-2",
+          "build-together-slide-3",
+          "build-together-slide-4"
+        ]
+      }
+    },
+    "brand": {
+      "accent": "#8660cc",
+      "background": "#eee6fb",
+      "ink": "#342546",
+      "font": "Arial",
+      "logo": "",
+      "family": "generic",
+      "headerTitle": "GALLERY STARTER",
+      "headerSubtitle": "",
+      "edition": "",
+      "presentationTheme": "light"
+    },
+    "media": {},
+    "sectionTrash": [],
+    "sections": [
+      {
+        "id": "build-together-section",
+        "name": "Main",
+        "kind": "slides",
+        "product": "generic",
+        "hidden": false,
+        "headerLabel": ""
+      }
+    ],
+    "origin": "blank"
+  },
+  "checkpoints": [],
+  "history": {
+    "past": [],
+    "future": []
+  }
+}

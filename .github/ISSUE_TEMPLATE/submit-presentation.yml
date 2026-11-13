@@ -1,0 +1,67 @@
+name: Submit a presentation
+description: Propose an original deck or reusable template for the gallery.
+title: "[Submission] "
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Presentation title
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What is it, and who is it for?
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Pitch decks
+        - Education
+        - Reports
+        - Workshops
+        - Portfolios
+        - Product demos
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options:
+        - Showcase
+        - Template
+    validations:
+      required: true
+  - type: textarea
+    id: files
+    attributes:
+      label: Deck and previews
+      description: Link a public Studio JSON and one image preview per slide, or link your contribution branch. Never include private or customer material. Do not paste HTML or credentials.
+    validations:
+      required: true
+  - type: input
+    id: credit
+    attributes:
+      label: Author name and optional HTTPS profile link
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: Explicit content license
+      placeholder: Apache-2.0, CC BY 4.0, etc.
+    validations:
+      required: true
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Permission to share
+      options:
+        - label: I own this content or have permission to share all included text and assets under the stated license.
+          required: true
+        - label: I understand submissions are publicly visible and reviewed before publication.
+          required: true

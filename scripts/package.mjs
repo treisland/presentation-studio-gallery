@@ -1,0 +1,10 @@
+import { mkdir, cp, rm } from 'node:fs/promises';
+import { fileURLToPath } from 'node:url';
+import path from 'node:path';
+import './build.mjs';
+const root = fileURLToPath(new URL('../', import.meta.url));
+const out = path.join(root, 'release', 'site');
+await rm(out, { recursive: true, force: true });
+await mkdir(out, { recursive: true });
+await cp(path.join(root, 'dist'), out, { recursive: true });
+console.log('Deployable static files: release/site/');
