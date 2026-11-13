@@ -1,0 +1,28 @@
+{
+  "id": "when-email-becomes-everyones-dependency",
+  "title": "When Email Becomes Everyone’s Dependency",
+  "description": "An educational case study of the November 12–13, 2026 Microsoft 365 outage: feature-level impact, shared dependencies, recovery milestones, and response questions. Dated research snapshot, not a final postmortem.",
+  "category": "Education",
+  "tags": [
+    "Microsoft 365",
+    "incident response",
+    "reliability",
+    "dependencies"
+  ],
+  "type": "showcase",
+  "author": {
+    "name": "Presentation Studio",
+    "url": "https://github.com/treisland"
+  },
+  "license": "Apache-2.0",
+  "added": "2026-11-13",
+  "cover": "slide-01.png",
+  "deck": "presentation.json",
+  "previews": [
+    "slide-01.png",
+    "slide-03.png",
+    "slide-04.png",
+    "slide-07.png"
+  ],
+  "previewNote": "Four selected screenshots from actual native playback. Incident snapshot: November 13, 2026, 22:00 UTC. Sources and qualifications are included in speaker notes; conceptual diagrams and presenter analysis are labeled."
+}

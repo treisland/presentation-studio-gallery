@@ -1,0 +1,11 @@
+[
+  {
+    "id": "when-email-becomes-everyones-dependency",
+    "slides": 11,
+    "import": "passed",
+    "offlineEditableZipRoundtrip": "passed",
+    "overflow": [],
+    "errors": [],
+    "offlinePlaybackHtml": "passed: all 11 slides navigated offline"
+  }
+]
