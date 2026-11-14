@@ -1,0 +1,25 @@
+{
+  "id": "after-dark-city-in-light",
+  "title": "After Dark: A City in Light",
+  "description": "An imagined exhibition. Six-slide fictional showcase with editable text and original illustrations included in the complete editable ZIP.",
+  "category": "Education",
+  "tags": [
+    "museum",
+    "fictional",
+    "illustrated"
+  ],
+  "type": "showcase",
+  "author": {
+    "name": "Tre · created with Codex",
+    "url": "https://github.com/treisland"
+  },
+  "license": "Apache-2.0",
+  "added": "2026-11-14",
+  "cover": "slide-01.png",
+  "deck": "editable-project.zip",
+  "previews": [
+    "slide-01.png",
+    "slide-03.png",
+    "slide-04.png"
+  ]
+}

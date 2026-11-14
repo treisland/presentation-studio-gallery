@@ -65,7 +65,8 @@ function route(focus = false) {
   const intro = document.createElement('div'); intro.append(text('span', `${item.category.toUpperCase()} · ${capitalize(item.type)}`, 'eyebrow'));
   const h1 = text('h1', item.title); h1.id = 'detail-title'; h1.tabIndex = -1; intro.append(h1, text('p', item.description, 'detail-description'));
   const actions = document.createElement('div'); actions.className = 'detail-actions';
-  const download = text('a', 'Download Studio JSON ↓', 'button'); download.href = asset(item, item.deck); download.download = item.deck;
+  const isZip = item.deck.endsWith('.zip');
+  const download = text('a', isZip ? 'Download editable ZIP ↓' : 'Download Studio JSON ↓', 'button'); download.href = asset(item, item.deck); download.download = item.deck;
   const share = text('button', 'Copy link', 'button secondary'); share.type = 'button';
   share.addEventListener('click', async () => { try { await navigator.clipboard.writeText(location.href); share.textContent = 'Link copied'; } catch { share.textContent = 'Copy the URL from your address bar'; } });
   actions.append(download, share); header.append(intro, actions); detail.append(header);
@@ -76,7 +77,7 @@ function route(focus = false) {
   const status = text('span', ''); status.id = 'slide-status'; status.setAttribute('aria-live', 'polite'); controls.append(prev,status,next); viewer.append(controls); detail.append(viewer);
   const info = document.createElement('div'); info.className = 'detail-info';
   const about = document.createElement('div'); about.append(text('h2', 'Make it your own.'));
-  about.append(text('p', 'Download the editable JSON, then use Presentations → Open ZIP / JSON in Presentation Studio. Save your own editable ZIP after making changes.'));
+  about.append(text('p', isZip ? 'Download the complete editable ZIP, then use Presentations → Open ZIP / JSON in Presentation Studio. Keep the ZIP intact: it includes the project and its images. Save your own editable ZIP after making changes.' : 'Download the editable JSON, then use Presentations → Open ZIP / JSON in Presentation Studio. Save your own editable ZIP after making changes.'));
   const doc = text('a', 'Read the Presentation Studio documentation ↗'); doc.href = catalog.config.docs; about.append(doc);
   if (item.previewNote) about.append(text('p', item.previewNote, 'notice'));
   const tags = document.createElement('p'); for (const tag of item.tags) tags.append(text('span', tag, 'tag')); about.append(tags);

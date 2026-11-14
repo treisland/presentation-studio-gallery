@@ -1,5 +1,6 @@
 import { readdir, readFile, lstat, realpath } from 'node:fs/promises';
 import path from 'node:path';
+import { readProjectArchive, projectAssetPaths } from './project-archive.mjs';
 
 export const slugPattern = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 export function assert(condition, message) { if (!condition) throw new Error(message); }
@@ -14,7 +15,7 @@ export function validateMetadata(m, folder, categories) {
   assert(Array.isArray(m.tags) && m.tags.length <= 12 && m.tags.every(t => typeof t === 'string' && t.trim() && t.length <= 40), `${folder}: invalid tags`);
   assert(/^\d{4}-\d{2}-\d{2}$/.test(m.added) && !Number.isNaN(Date.parse(m.added)) && new Date(m.added).toISOString().slice(0, 10) === m.added, `${folder}: added must be a real YYYY-MM-DD date`);
   assert(Array.isArray(m.previews) && m.previews.length > 0 && m.previews.length <= 100, `${folder}: previews are required`);
-  assert(typeof m.deck === 'string' && /\.json$/.test(m.deck), `${folder}: deck must be a Studio JSON file`);
+  assert(typeof m.deck === 'string' && /\.(json|zip)$/.test(m.deck), `${folder}: deck must be a Studio JSON or editable ZIP file`);
   assert(typeof m.cover === 'string', `${folder}: cover is required`);
   for (const file of [m.cover, ...m.previews]) assert(typeof file === 'string' && /\.(svg|png|webp|jpe?g)$/i.test(file), `${folder}: previews must be SVG/PNG/WebP/JPEG images`);
   for (const file of [m.cover, m.deck, ...m.previews]) assert(/^[a-zA-Z0-9][a-zA-Z0-9._-]*$/.test(file), `${folder}: assets must be local filenames without directories`);
@@ -37,6 +38,20 @@ export function validateSvg(source, folder) {
   assert(source.trimStart().startsWith('<svg') && source.trimEnd().endsWith('</svg>'), `${folder}: invalid SVG`);
 }
 
+export async function readDeck(file, folder) {
+  const bytes=await readFile(file);
+  const entries=file.endsWith('.zip') ? readProjectArchive(bytes) : null;
+  const deck=JSON.parse(new TextDecoder('utf-8',{fatal:true}).decode(entries ? entries.get('presentation.json') : bytes));
+  validateDeck(deck,folder);
+  assert(!deck.playbackOnly, `${folder}: use an editable project, not a playback export`);
+  const paths=projectAssetPaths(deck);
+  assert(entries || !paths.size, `${folder}: JSON references media; provide a complete editable ZIP`);
+  for(const asset of paths) assert(entries.has(asset), `${folder}: missing ZIP asset ${asset}`);
+  if(entries) for(const [name,content] of entries)
+    if(name.endsWith('.svg')) validateSvg(content.toString('utf8'), `${folder}: ${name}`);
+  return deck;
+}
+
 export async function loadContent(root) {
   const config = JSON.parse(await readFile(path.join(root, 'config.json'), 'utf8'));
   const base = path.join(root, 'presentations');
@@ -54,8 +69,7 @@ export async function loadContent(root) {
       assert((await lstat(full)).size <= 15 * 1024 * 1024, `${folder}: ${file} exceeds 15 MiB; optimize it first`);
       if (/\.svg$/i.test(file)) validateSvg(await readFile(full, 'utf8'), folder);
     }
-    const deck = JSON.parse(await readFile(path.join(dir, m.deck), 'utf8'));
-    validateDeck(deck, folder);
+    const deck = await readDeck(path.join(dir, m.deck), folder);
     items.push({ ...m, slideCount: deck.state.slides.length, files });
   }
   assert(new Set(items.map(m => m.id)).size === items.length, 'Duplicate presentation ID');

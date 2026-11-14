@@ -1,0 +1,25 @@
+{
+  "id": "common-ground-realty",
+  "title": "Common Ground Realty",
+  "description": "Find your kind of everyday. Six-slide fictional showcase with editable text and original embedded illustrations.",
+  "category": "Pitch decks",
+  "tags": [
+    "real-estate",
+    "fictional",
+    "illustrated"
+  ],
+  "type": "showcase",
+  "author": {
+    "name": "Tre · created with Codex",
+    "url": "https://github.com/treisland"
+  },
+  "license": "Apache-2.0",
+  "added": "2026-11-14",
+  "cover": "slide-01.png",
+  "deck": "presentation.json",
+  "previews": [
+    "slide-01.png",
+    "slide-03.png",
+    "slide-04.png"
+  ]
+}

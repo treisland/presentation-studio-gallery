@@ -1,6 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { mkdir } from 'node:fs/promises';
+import { mkdir, readFile } from 'node:fs/promises';
+import { readProjectArchive } from '../scripts/project-archive.mjs';
 import { chromium } from 'playwright';
 import { startServer } from '../scripts/serve.mjs';
 import { loadContent } from '../scripts/content.mjs';
@@ -94,6 +95,32 @@ test('gallery browsing, filters, themes, details, downloads and mobile layout', 
       await page.unroute('**/catalog.json');
     }
     await page.goto(`${base}/#presentation/missing`); await page.getByRole('heading',{name:'Presentation not found.'}).waitFor();
+    // Illustrated decks download the complete, byte-for-byte reviewed project.
+    for(const id of ['ember-and-salt','common-ground-realty','after-dark-city-in-light']) {
+      for(const width of [1440,390]) {
+        await page.setViewportSize({width,height:900});
+        await page.goto(`${base}/#presentation/${id}`);await page.locator('#detail-title').waitFor();
+        assert.equal(await page.locator('dd').last().textContent(),'6');
+        assert.equal(await page.locator('#slide-status').textContent(),'Preview 1 of 3');
+        await page.locator('#next').click();await page.locator('#next').click();assert.equal(await page.locator('#next').isDisabled(),true);
+        await page.locator('#previous').click();await page.locator('#previous').click();assert.equal(await page.locator('#previous').isDisabled(),true);
+        await page.waitForFunction(()=>document.getElementById('slide-preview').naturalWidth>0);
+        assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+        for(const theme of ['light','dark']) {
+          await page.getByRole('combobox',{name:'Color theme'}).selectOption(theme);
+          await page.screenshot({path:`test-results/${id}-${width}-${theme}.png`,fullPage:true});
+        }
+      }
+      const link=page.getByRole('link',{name:'Download editable ZIP'});
+      await link.focus();assert.equal(await link.evaluate(el=>el===document.activeElement),true);
+      const [download]=await Promise.all([page.waitForEvent('download'),link.click()]);
+      assert.equal(download.suggestedFilename(),'editable-project.zip');
+      const bytes=await readFile(await download.path());
+      assert.deepEqual(bytes,await readFile(new URL(`../presentations/${id}/editable-project.zip`,import.meta.url)));
+      assert.equal(JSON.parse(readProjectArchive(bytes).get('presentation.json')).meta.id,`gallery-${id}-v1`);
+      assert.equal(await page.getByRole('link',{name:'Download Studio JSON'}).count(),0);
+      assert.match(await page.locator('.detail-info').textContent(),/includes the project and its images/);
+    }
     // Asset URLs resolve relative to a project Pages prefix as well as a custom-domain root.
     await page.route('**/presentation-studio-gallery/**', route => {
       const url = new URL(route.request().url()); url.pathname = url.pathname.replace('/presentation-studio-gallery',''); return route.continue({url:url.href});

@@ -2,7 +2,7 @@
 
 A static, searchable collection of original presentations and reusable templates made with [Presentation Studio](https://github.com/treisland/presentation-studio). [Documentation](https://docs.pres-studio.com).
 
-Includes category/tag search, Showcase/Template filtering, light/dark/system themes, shareable detail pages, slide image previews, and Studio JSON downloads. No database, accounts, analytics, runtime dependencies, or external fonts. The collection includes six original starter templates and complete educational presentations. The starter templates use illustrated summaries rather than exact Studio renderings; completed decks include selected playback screenshots.
+Includes category/tag search, Showcase/Template filtering, light/dark/system themes, shareable detail pages, slide image previews, and Studio JSON or complete editable ZIP downloads. No database, accounts, analytics, runtime dependencies, or external fonts. The collection includes six original starter templates and complete educational presentations. The starter templates use illustrated summaries rather than exact Studio renderings; completed decks include selected playback screenshots.
 
 ## Educational showcases
 
@@ -26,7 +26,7 @@ Open http://127.0.0.1:4173. `npm run check` builds and runs content and Chromium
 
 ## Add a presentation
 
-Export a Studio JSON and prepare one or more preview images of your choice, then run:
+Export self-contained Studio JSON, or a complete editable ZIP for a deck with media, and prepare one or more preview images of your choice, then run:
 
 ```sh
 npm run add-presentation
