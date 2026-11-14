@@ -66,7 +66,3 @@ for(const c of configs){
  await writeFile(`${dir}/README.md`,`# ${c.title}\n\n${c.sub}. Six slides, intended for a short introduction. Fictional showcase; all text and SVG illustrations are original, created with Codex, licensed Apache-2.0. No external media or fonts are required.\n\nThe JSON is the editable native Studio project. Selected PNG previews are actual Studio slide renders. Submission only: maintainer acceptance is pending. See verification.json for actual checks.\n`);
 }
 console.log('Created three six-slide submissions.');
-
-
-
-
