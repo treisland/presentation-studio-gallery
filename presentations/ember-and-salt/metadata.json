@@ -1,0 +1,25 @@
+{
+  "id": "ember-and-salt",
+  "title": "Ember & Salt",
+  "description": "A season at the table. Six-slide fictional showcase with editable text and original illustrations included in the complete editable ZIP.",
+  "category": "Pitch decks",
+  "tags": [
+    "restaurant",
+    "fictional",
+    "illustrated"
+  ],
+  "type": "showcase",
+  "author": {
+    "name": "Tre · created with Codex",
+    "url": "https://github.com/treisland"
+  },
+  "license": "Apache-2.0",
+  "added": "2026-11-14",
+  "cover": "slide-01.png",
+  "deck": "editable-project.zip",
+  "previews": [
+    "slide-01.png",
+    "slide-03.png",
+    "slide-04.png"
+  ]
+}

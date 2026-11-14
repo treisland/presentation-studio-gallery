@@ -12,7 +12,7 @@ export function startServer(port = 4173) {
       const file = path.resolve(root, '.' + (pathname.endsWith('/') ? pathname + 'index.html' : pathname));
       const resolved = await realpath(file);
       if (!resolved.startsWith(path.resolve(root) + path.sep)) throw new Error('Invalid path');
-      res.writeHead(200, { 'Content-Type': mime[path.extname(file)] || 'application/octet-stream' });
+      res.writeHead(200, { 'Content-Type': path.extname(file) === '.zip' ? 'application/zip' : mime[path.extname(file)] || 'application/octet-stream' });
       res.end(await readFile(file));
     } catch { res.writeHead(404); res.end('Not found'); }
   });
