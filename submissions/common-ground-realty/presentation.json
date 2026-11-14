@@ -1,0 +1,2830 @@
+{
+  "schemaVersion": 2,
+  "kind": "presentation-studio-project",
+  "meta": {
+    "id": "gallery-common-ground-realty-v1",
+    "name": "Common Ground Realty",
+    "updatedAt": "2026-11-14T04:11:28.086Z"
+  },
+  "playbackOnly": false,
+  "state": {
+    "projectName": "Common Ground Realty",
+    "slides": [
+      {
+        "id": "common-ground-realty-slide-1",
+        "title": "Common Ground Realty",
+        "group": "common-ground-realty-main",
+        "template": "blank",
+        "classes": "wide",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-1-1 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:1%;width:87%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "COMMON GROUND REALTY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-1-2 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:89%;top:1%;width:11%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "01 / 06"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-1-3 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:18%;width:48%;height:31%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:68px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "Common Ground Realty"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-1-4 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:51%;width:47%;height:12%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:30px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "Find your kind of everyday"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-1-5 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:69%;width:46%;height:20%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:25px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "A fictional real estate company helping buyers connect a home search to daily life."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-1-6 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:96%;width:96%;height:4%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:14px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "FICTIONAL SHOWCASE · ORIGINAL ILLUSTRATIONS"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-1-1 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:1%;width:87%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "COMMON GROUND REALTY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-1-2 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:89%;top:1%;width:11%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "01 / 06"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-1-3 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:18%;width:48%;height:31%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:68px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "Common Ground Realty"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-1-4 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:51%;width:47%;height:12%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:30px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "Find your kind of everyday"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-1-5 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:69%;width:46%;height:20%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:25px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "A fictional real estate company helping buyers connect a home search to daily life."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-1-6 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:96%;width:96%;height:4%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:14px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "FICTIONAL SHOWCASE · ORIGINAL ILLUSTRATIONS"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "wide",
+        "duration": 45,
+        "hidden": false,
+        "notes": "A fictional real estate company helping buyers connect a home search to daily life.\n\nOriginal fictional concept created for Presentation Studio Gallery. All brands, locations, menus and exhibit proposals are invented. Illustrations are original SVG compositions, not photographs or historical evidence. Neighborhood descriptions are illustrative only; this deck contains no real listings, market claims or transaction advice. ",
+        "topic": "Find your kind of everyday",
+        "commands": null,
+        "templateCommands": null,
+        "_trashIndex": 0,
+        "transition": "inherit",
+        "editLocked": false
+      },
+      {
+        "id": "common-ground-realty-slide-2",
+        "title": "Start with the life around it",
+        "group": "common-ground-realty-main",
+        "template": "blank",
+        "classes": "wide",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-2-1 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:1%;width:87%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "COMMON GROUND REALTY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-2-2 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:89%;top:1%;width:11%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "02 / 06"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-2-3 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:13%;width:99%;height:16%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:48px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "Start with the life around it"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-2-4 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:30%;width:98%;height:9%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:25px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "Before the shortlist"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-2-5 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:47%;width:76%;height:34%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:46px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "What should an ordinary Tuesday feel like? Choose your must-haves before comparing homes."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-2-6 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:85%;width:90%;height:7%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:23px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "A considered experience, shaped around people."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-2-7 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:96%;width:96%;height:4%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:14px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "FICTIONAL SHOWCASE · ORIGINAL ILLUSTRATIONS"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-2-1 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:1%;width:87%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "COMMON GROUND REALTY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-2-2 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:89%;top:1%;width:11%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "02 / 06"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-2-3 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:13%;width:99%;height:16%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:48px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "Start with the life around it"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-2-4 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:30%;width:98%;height:9%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:25px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "Before the shortlist"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-2-5 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:47%;width:76%;height:34%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:46px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "What should an ordinary Tuesday feel like? Choose your must-haves before comparing homes."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-2-6 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:85%;width:90%;height:7%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:23px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "A considered experience, shaped around people."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-2-7 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:96%;width:96%;height:4%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:14px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "FICTIONAL SHOWCASE · ORIGINAL ILLUSTRATIONS"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "wide",
+        "duration": 45,
+        "hidden": false,
+        "notes": "What should an ordinary Tuesday feel like? Choose your must-haves before comparing homes.\n\nOriginal fictional concept created for Presentation Studio Gallery. All brands, locations, menus and exhibit proposals are invented. Illustrations are original SVG compositions, not photographs or historical evidence. Neighborhood descriptions are illustrative only; this deck contains no real listings, market claims or transaction advice. ",
+        "topic": "Find your kind of everyday",
+        "commands": null,
+        "templateCommands": null,
+        "_trashIndex": 0,
+        "transition": "inherit",
+        "editLocked": false
+      },
+      {
+        "id": "common-ground-realty-slide-3",
+        "title": "Find your Saturday",
+        "group": "common-ground-realty-main",
+        "template": "blank",
+        "classes": "wide",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-3-1 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:1%;width:87%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "COMMON GROUND REALTY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-3-2 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:89%;top:1%;width:11%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "03 / 06"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-3-3 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:13%;width:99%;height:16%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:48px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "Find your Saturday"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-3-4 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:30%;width:98%;height:9%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:25px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "Three fictional places. Three different rhythms."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-3-5 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:57%;top:44%;width:42%;height:12%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:28px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "Market Quarter · cafés and corner shops"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-3-6 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:57%;top:59%;width:42%;height:12%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:28px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "River Walk · paths and open space"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-3-7 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:57%;top:74%;width:42%;height:12%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:28px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "Garden Blocks · yards and quiet streets"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-3-8 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:96%;width:96%;height:4%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:14px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "FICTIONAL SHOWCASE · ORIGINAL ILLUSTRATIONS"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-3-1 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:1%;width:87%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "COMMON GROUND REALTY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-3-2 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:89%;top:1%;width:11%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "03 / 06"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-3-3 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:13%;width:99%;height:16%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:48px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "Find your Saturday"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-3-4 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:30%;width:98%;height:9%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:25px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "Three fictional places. Three different rhythms."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-3-5 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:57%;top:44%;width:42%;height:12%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:28px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "Market Quarter · cafés and corner shops"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-3-6 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:57%;top:59%;width:42%;height:12%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:28px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "River Walk · paths and open space"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-3-7 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:57%;top:74%;width:42%;height:12%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:28px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "Garden Blocks · yards and quiet streets"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-3-8 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:96%;width:96%;height:4%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:14px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "FICTIONAL SHOWCASE · ORIGINAL ILLUSTRATIONS"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "wide",
+        "duration": 45,
+        "hidden": false,
+        "notes": "Market Quarter · cafés and corner shops; River Walk · paths and open space; Garden Blocks · yards and quiet streets\n\nOriginal fictional concept created for Presentation Studio Gallery. All brands, locations, menus and exhibit proposals are invented. Illustrations are original SVG compositions, not photographs or historical evidence. Neighborhood descriptions are illustrative only; this deck contains no real listings, market claims or transaction advice. ",
+        "topic": "Find your kind of everyday",
+        "commands": null,
+        "templateCommands": null,
+        "_trashIndex": 0,
+        "transition": "inherit",
+        "editLocked": false
+      },
+      {
+        "id": "common-ground-realty-slide-4",
+        "title": "Compare the trade-offs",
+        "group": "common-ground-realty-main",
+        "template": "blank",
+        "classes": "wide",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-1 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:1%;width:87%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "COMMON GROUND REALTY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-2 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:89%;top:1%;width:11%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "04 / 06"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-3 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:13%;width:99%;height:16%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:48px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "Compare the trade-offs"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-4 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:30%;width:98%;height:9%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:25px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "A useful shortlist makes choices visible"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-5 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:46%;width:26%;height:12%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:29px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "Market Quarter"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-6 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:30%;top:46%;width:69%;height:13%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:27px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "Activity close by · less private outdoor space"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-7 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:62%;width:26%;height:12%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:29px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "River Walk"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-8 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:30%;top:62%;width:69%;height:13%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:27px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "Trail access · fewer shops nearby"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-9 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:78%;width:26%;height:12%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:29px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "Garden Blocks"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-10 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:30%;top:78%;width:69%;height:13%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:27px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "Room outdoors · more trips by car"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-11 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:96%;width:96%;height:4%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:14px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "FICTIONAL SHOWCASE · ORIGINAL ILLUSTRATIONS"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-1 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:1%;width:87%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "COMMON GROUND REALTY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-2 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:89%;top:1%;width:11%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "04 / 06"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-3 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:13%;width:99%;height:16%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:48px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "Compare the trade-offs"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-4 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:30%;width:98%;height:9%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:25px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "A useful shortlist makes choices visible"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-5 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:46%;width:26%;height:12%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:29px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "Market Quarter"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-6 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:30%;top:46%;width:69%;height:13%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:27px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "Activity close by · less private outdoor space"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-7 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:62%;width:26%;height:12%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:29px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "River Walk"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-8 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:30%;top:62%;width:69%;height:13%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:27px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "Trail access · fewer shops nearby"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-9 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:78%;width:26%;height:12%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:29px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "Garden Blocks"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-10 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:30%;top:78%;width:69%;height:13%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:27px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "Room outdoors · more trips by car"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-4-11 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:96%;width:96%;height:4%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:14px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "FICTIONAL SHOWCASE · ORIGINAL ILLUSTRATIONS"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "wide",
+        "duration": 45,
+        "hidden": false,
+        "notes": "Market Quarter; Activity close by · less private outdoor space\nRiver Walk; Trail access · fewer shops nearby\nGarden Blocks; Room outdoors · more trips by car\n\nOriginal fictional concept created for Presentation Studio Gallery. All brands, locations, menus and exhibit proposals are invented. Illustrations are original SVG compositions, not photographs or historical evidence. Neighborhood descriptions are illustrative only; this deck contains no real listings, market claims or transaction advice. ",
+        "topic": "Find your kind of everyday",
+        "commands": null,
+        "templateCommands": null,
+        "_trashIndex": 0,
+        "transition": "inherit",
+        "editLocked": false
+      },
+      {
+        "id": "common-ground-realty-slide-5",
+        "title": "Look beyond the listing",
+        "group": "common-ground-realty-main",
+        "template": "blank",
+        "classes": "wide",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-5-1 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:1%;width:87%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "COMMON GROUND REALTY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-5-2 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:89%;top:1%;width:11%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "05 / 06"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-5-3 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:13%;width:99%;height:16%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:48px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "Look beyond the listing"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-5-4 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:30%;width:98%;height:9%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:25px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "Walk the neighborhood at your own pace"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-5-5 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:59%;top:46%;width:40%;height:42%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:30px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "Visit at different times. Try your real route. Notice sound, shade, sidewalks, and the places you would return to."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-5-6 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:96%;width:96%;height:4%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:14px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "FICTIONAL SHOWCASE · ORIGINAL ILLUSTRATIONS"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-5-1 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:1%;width:87%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "COMMON GROUND REALTY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-5-2 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:89%;top:1%;width:11%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "05 / 06"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-5-3 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:13%;width:99%;height:16%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:48px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "Look beyond the listing"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-5-4 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:30%;width:98%;height:9%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:25px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "Walk the neighborhood at your own pace"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-5-5 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:59%;top:46%;width:40%;height:42%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:30px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "Visit at different times. Try your real route. Notice sound, shade, sidewalks, and the places you would return to."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-5-6 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:96%;width:96%;height:4%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:14px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "FICTIONAL SHOWCASE · ORIGINAL ILLUSTRATIONS"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "wide",
+        "duration": 45,
+        "hidden": false,
+        "notes": "Visit at different times. Try your real route. Notice sound, shade, sidewalks, and the places you would return to.\n\nOriginal fictional concept created for Presentation Studio Gallery. All brands, locations, menus and exhibit proposals are invented. Illustrations are original SVG compositions, not photographs or historical evidence. Neighborhood descriptions are illustrative only; this deck contains no real listings, market claims or transaction advice. ",
+        "topic": "Find your kind of everyday",
+        "commands": null,
+        "templateCommands": null,
+        "_trashIndex": 0,
+        "transition": "inherit",
+        "editLocked": false
+      },
+      {
+        "id": "common-ground-realty-slide-6",
+        "title": "From priorities to a plan",
+        "group": "common-ground-realty-main",
+        "template": "blank",
+        "classes": "wide",
+        "tree": [
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-6-1 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:1%;width:87%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "COMMON GROUND REALTY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-6-2 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:89%;top:1%;width:11%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "06 / 06"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-6-3 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:13%;width:99%;height:16%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:48px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "From priorities to a plan"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-6-4 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:30%;width:98%;height:9%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:25px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "Our proposed buyer journey"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-6-5 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:47%;width:95%;height:12%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:34px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "01  Define your priorities"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-6-6 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:61%;width:95%;height:12%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:34px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "02  Tour and compare"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-6-7 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:75%;width:95%;height:12%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:34px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "03  Review next steps with your agent"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-6-8 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:96%;width:96%;height:4%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:14px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "FICTIONAL SHOWCASE · ORIGINAL ILLUSTRATIONS"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateBase": [
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-6-1 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:1%;width:87%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "COMMON GROUND REALTY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-6-2 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:89%;top:1%;width:11%;height:5%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:18px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "06 / 06"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-6-3 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:13%;width:99%;height:16%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:48px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "From priorities to a plan"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-6-4 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:30%;width:98%;height:9%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:25px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "Our proposed buyer journey"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-6-5 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:47%;width:95%;height:12%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:34px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "01  Define your priorities"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-6-6 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:61%;width:95%;height:12%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:34px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "02  Tour and compare"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-6-7 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:75%;width:95%;height:12%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "attrs": {
+                  "style": "font-size:34px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:700"
+                },
+                "children": [
+                  {
+                    "text": "03  Review next steps with your agent"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "db-block card db-text block-common-ground-realty-6-8 db-template tp-display-block tp-pad-0",
+              "style": ";position:absolute;left:0%;top:96%;width:96%;height:4%;z-index:4"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "style": "font-size:14px;line-height:1.18;margin:0;letter-spacing:0px;font-weight:400"
+                },
+                "children": [
+                  {
+                    "text": "FICTIONAL SHOWCASE · ORIGINAL ILLUSTRATIONS"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templateClasses": "wide",
+        "duration": 45,
+        "hidden": false,
+        "notes": "01  Define your priorities; 02  Tour and compare; 03  Review next steps with your agent\n\nOriginal fictional concept created for Presentation Studio Gallery. All brands, locations, menus and exhibit proposals are invented. Illustrations are original SVG compositions, not photographs or historical evidence. Neighborhood descriptions are illustrative only; this deck contains no real listings, market claims or transaction advice. ",
+        "topic": "Find your kind of everyday",
+        "commands": null,
+        "templateCommands": null,
+        "_trashIndex": 0,
+        "transition": "inherit",
+        "editLocked": false
+      }
+    ],
+    "trash": [],
+    "loops": {
+      "main": {
+        "name": "Common Ground Realty",
+        "slideIds": [
+          "common-ground-realty-slide-1",
+          "common-ground-realty-slide-2",
+          "common-ground-realty-slide-3",
+          "common-ground-realty-slide-4",
+          "common-ground-realty-slide-5",
+          "common-ground-realty-slide-6"
+        ]
+      }
+    },
+    "brand": {
+      "accent": "#315e4e",
+      "background": "#f1eee4",
+      "ink": "#263e35",
+      "font": "Arial",
+      "logo": "",
+      "family": "generic",
+      "headerTitle": "",
+      "headerSubtitle": "",
+      "edition": "",
+      "presentationTheme": "light",
+      "logoLight": "",
+      "logoDark": "",
+      "logoSize": 40,
+      "logoPlacement": "left",
+      "titleLogo": false,
+      "themeColors": {}
+    },
+    "media": {
+      "common-ground-realty-slide-1": {
+        "layout": "inset",
+        "ratio": "equal",
+        "fit": "cover",
+        "position": "center",
+        "frame": "none",
+        "corner": "right bottom",
+        "caption": "",
+        "captionPlace": "below",
+        "alt": "Original architectural illustration of three neighborhood homes",
+        "overlay": 0,
+        "autoplay": true,
+        "muted": true,
+        "loop": true,
+        "advance": "fixed",
+        "src": "assets/art-1.svg",
+        "kind": "image",
+        "name": "Original architectural illustration of three neighborhood homes",
+        "canvas": {
+          "placement": {
+            "x": 0.52,
+            "y": 0.13,
+            "w": 0.48,
+            "h": 0.76
+          },
+          "locked": false,
+          "hidden": false,
+          "z": 3,
+          "crop": {
+            "x": 50,
+            "y": 50
+          }
+        }
+      },
+      "common-ground-realty-slide-3": {
+        "layout": "inset",
+        "ratio": "equal",
+        "fit": "cover",
+        "position": "center",
+        "frame": "none",
+        "corner": "right bottom",
+        "caption": "",
+        "captionPlace": "below",
+        "alt": "Original architectural illustration of three neighborhood homes",
+        "overlay": 0,
+        "autoplay": true,
+        "muted": true,
+        "loop": true,
+        "advance": "fixed",
+        "src": "assets/art-1.svg",
+        "kind": "image",
+        "name": "Original architectural illustration of three neighborhood homes",
+        "canvas": {
+          "placement": {
+            "x": 0,
+            "y": 0.44,
+            "w": 0.51,
+            "h": 0.45
+          },
+          "locked": false,
+          "hidden": false,
+          "z": 3,
+          "crop": {
+            "x": 50,
+            "y": 50
+          }
+        }
+      },
+      "common-ground-realty-slide-5": {
+        "layout": "inset",
+        "ratio": "equal",
+        "fit": "cover",
+        "position": "center",
+        "frame": "none",
+        "corner": "right bottom",
+        "caption": "",
+        "captionPlace": "below",
+        "alt": "Original schematic neighborhood map with river, park and three markers; not geographic data",
+        "overlay": 0,
+        "autoplay": true,
+        "muted": true,
+        "loop": true,
+        "advance": "fixed",
+        "src": "assets/art-2.svg",
+        "kind": "image",
+        "name": "Original schematic neighborhood map with river, park and three markers; not geographic data",
+        "canvas": {
+          "placement": {
+            "x": 0,
+            "y": 0.44,
+            "w": 0.53,
+            "h": 0.46
+          },
+          "locked": false,
+          "hidden": false,
+          "z": 3,
+          "crop": {
+            "x": 50,
+            "y": 50
+          }
+        }
+      }
+    },
+    "sectionTrash": [],
+    "sections": [
+      {
+        "id": "common-ground-realty-main",
+        "name": "Common Ground Realty",
+        "kind": "slides",
+        "product": "generic",
+        "hidden": false,
+        "headerLabel": ""
+      }
+    ],
+    "origin": "blank",
+    "presentation": {
+      "transition": "none",
+      "speed": "normal",
+      "sectionTransition": "inherit",
+      "disableMotion": true,
+      "mediaFocus": {
+        "enabled": true,
+        "animation": "expand",
+        "captions": true,
+        "zoom": true
+      },
+      "booth": {
+        "navigation": true,
+        "questions": true,
+        "focus": true,
+        "video": true,
+        "links": false,
+        "idle": 120,
+        "loop": ""
+      }
+    },
+    "editLocked": false,
+    "mediaObjects": {},
+    "design": {
+      "palette": [],
+      "slides": {
+        "common-ground-realty-slide-1": {
+          "objects": {
+            "block-common-ground-realty-1-1": {
+              "name": "COMMON GROUND REALTY",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-1-2": {
+              "name": "01 / 06",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-1-3": {
+              "name": "Common Ground Realty",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#263e35",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-1-4": {
+              "name": "Find your kind of everyday",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-1-5": {
+              "name": "A fictional real estate company helping buyers connect a home search t",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#263e35",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-1-6": {
+              "name": "FICTIONAL SHOWCASE · ORIGINAL ILLUSTRATIONS",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            }
+          }
+        },
+        "common-ground-realty-slide-2": {
+          "objects": {
+            "block-common-ground-realty-2-1": {
+              "name": "COMMON GROUND REALTY",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-2-2": {
+              "name": "02 / 06",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-2-3": {
+              "name": "Start with the life around it",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#263e35",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-2-4": {
+              "name": "Before the shortlist",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-2-5": {
+              "name": "What should an ordinary Tuesday feel like? Choose your must-haves befo",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#263e35",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-2-6": {
+              "name": "A considered experience, shaped around people.",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-2-7": {
+              "name": "FICTIONAL SHOWCASE · ORIGINAL ILLUSTRATIONS",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            }
+          }
+        },
+        "common-ground-realty-slide-3": {
+          "objects": {
+            "block-common-ground-realty-3-1": {
+              "name": "COMMON GROUND REALTY",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-3-2": {
+              "name": "03 / 06",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-3-3": {
+              "name": "Find your Saturday",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#263e35",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-3-4": {
+              "name": "Three fictional places. Three different rhythms.",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-3-5": {
+              "name": "Market Quarter · cafés and corner shops",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#263e35",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-3-6": {
+              "name": "River Walk · paths and open space",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#263e35",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-3-7": {
+              "name": "Garden Blocks · yards and quiet streets",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#263e35",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-3-8": {
+              "name": "FICTIONAL SHOWCASE · ORIGINAL ILLUSTRATIONS",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            }
+          }
+        },
+        "common-ground-realty-slide-4": {
+          "objects": {
+            "block-common-ground-realty-4-1": {
+              "name": "COMMON GROUND REALTY",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-4-2": {
+              "name": "04 / 06",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-4-3": {
+              "name": "Compare the trade-offs",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#263e35",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-4-4": {
+              "name": "A useful shortlist makes choices visible",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-4-5": {
+              "name": "Market Quarter",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-4-6": {
+              "name": "Activity close by · less private outdoor space",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#263e35",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-4-7": {
+              "name": "River Walk",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-4-8": {
+              "name": "Trail access · fewer shops nearby",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#263e35",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-4-9": {
+              "name": "Garden Blocks",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-4-10": {
+              "name": "Room outdoors · more trips by car",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#263e35",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-4-11": {
+              "name": "FICTIONAL SHOWCASE · ORIGINAL ILLUSTRATIONS",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            }
+          }
+        },
+        "common-ground-realty-slide-5": {
+          "objects": {
+            "block-common-ground-realty-5-1": {
+              "name": "COMMON GROUND REALTY",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-5-2": {
+              "name": "05 / 06",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-5-3": {
+              "name": "Look beyond the listing",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#263e35",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-5-4": {
+              "name": "Walk the neighborhood at your own pace",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-5-5": {
+              "name": "Visit at different times. Try your real route. Notice sound, shade, si",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#263e35",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-5-6": {
+              "name": "FICTIONAL SHOWCASE · ORIGINAL ILLUSTRATIONS",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            }
+          }
+        },
+        "common-ground-realty-slide-6": {
+          "objects": {
+            "block-common-ground-realty-6-1": {
+              "name": "COMMON GROUND REALTY",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-6-2": {
+              "name": "06 / 06",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-6-3": {
+              "name": "From priorities to a plan",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#263e35",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-6-4": {
+              "name": "Our proposed buyer journey",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-6-5": {
+              "name": "01  Define your priorities",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-6-6": {
+              "name": "02  Tour and compare",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#263e35",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-6-7": {
+              "name": "03  Review next steps with your agent",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            },
+            "block-common-ground-realty-6-8": {
+              "name": "FICTIONAL SHOWCASE · ORIGINAL ILLUSTRATIONS",
+              "locked": false,
+              "hidden": false,
+              "style": {
+                "text": {
+                  "hex": "#315e4e",
+                  "opacity": 1
+                },
+                "fill": "transparent",
+                "border": "transparent",
+                "borderWidth": 0
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "checkpoints": [],
+  "history": {
+    "past": [],
+    "future": []
+  }
+}

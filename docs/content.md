@@ -40,3 +40,7 @@ The included starter decks use the existing native project envelope and original
 To update a deck, edit its existing folder, preserve its ID/URL and native IDs, replace the previews affected by the change, and open a PR. `added` is the original publication date, not the last edit date. To remove an entry, remove its folder in a reviewed PR; existing links will show a helpful not-found message.
 
 Search includes title, description, author, category and tags. All query terms must match somewhere in those fields. Filters and sorting are stored in the query string, and detail routes use `#presentation/<id>`.
+
+## Illustrated submissions awaiting intake
+
+Issue #10 stages three six-slide fictional showcases under `submissions/`: `ember-and-salt`, `common-ground-realty`, and `after-dark-city-in-light`. Open each `editable-project.zip` to retain the original illustrations. Native JSON alone references media paths and does not carry image bytes. These files are review artifacts, not published catalog entries; accepting ZIP-backed downloads requires a separately approved format decision.

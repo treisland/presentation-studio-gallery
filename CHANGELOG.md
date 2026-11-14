@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Stage three illustrated fictional showcases for review: Ember & Salt, Common Ground Realty, and After Dark. Complete editable ZIPs retain images; catalog publication remains pending its JSON-only media limitation.
+
 - Add the approved Origins of Superman in Comics (14 slides) and Structure of the U.S. Government (15 slides) showcases, each with four selected playback previews and an editable Studio JSON download.
 - Let contributors choose how many previews to include, independently of the deck’s slide count; navigate and label previews by the supplied image count.
 

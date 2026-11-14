@@ -1,0 +1,37 @@
+{
+  "studioImport": true,
+  "freshOfflineZIPReimport": true,
+  "slideCount": 6,
+  "slides": [
+    {
+      "slide": 1,
+      "imagesLoaded": true
+    },
+    {
+      "slide": 2,
+      "imagesLoaded": true
+    },
+    {
+      "slide": 3,
+      "imagesLoaded": true
+    },
+    {
+      "slide": 4,
+      "imagesLoaded": true
+    },
+    {
+      "slide": 5,
+      "imagesLoaded": true
+    },
+    {
+      "slide": 6,
+      "imagesLoaded": true
+    }
+  ],
+  "previews": "Actual Studio playback stage, controls hidden; all six slides visually inspected",
+  "limitations": [
+    "JSON alone does not include image bytes: use editable-project.zip. Current gallery JSON-only download cannot publish these illustrated versions intact.",
+    "Exported playback ZIP was not tested.",
+    "Gallery public deployment and maintainer acceptance are pending."
+  ]
+}
